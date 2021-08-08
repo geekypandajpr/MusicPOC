@@ -1,0 +1,500 @@
+id,name,popularity,duration_ms,explicit,artists,id_artists,release_date,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+35iwgR4jXetI318WEWsa1Q,Carve,6,126903,0,['Uli'],['45tIt06XoI0Iio4LBEVpls'],1922-02-22,0.645,0.445,0,-13.338,1,0.451,0.674,0.744,0.151,0.127,104.851,3
+021ht4sdgPcrDgSk7JTbKY,Capítulo 2.16 - Banquero Anarquista,0,98200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.695,0.263,0,-22.136,1,0.957,0.797,0.0,0.148,0.655,102.009,1
+07A5yehtSnoedViJAZkNnc,Vivo para Quererte - Remasterizado,0,181640,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.434,0.177,1,-21.18,1,0.0512,0.994,0.0218,0.212,0.457,130.418,5
+08FmqUhxtyLTn6pAh6bk45,El Prisionero - Remasterizado,0,176907,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.321,0.0946,7,-27.961,1,0.0504,0.995,0.918,0.104,0.397,169.98,3
+08y9GfoqCWfOGsKdwojr5e,Lady of the Evening,0,163080,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.402,0.158,3,-16.9,0,0.039,0.989,0.13,0.311,0.196,103.22,4
+0BRXJHRNGQ3W4v9frnSfhu,Ave Maria,0,178933,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.227,0.261,5,-12.343,1,0.0382,0.994,0.247,0.0977,0.0539,118.891,4
+0Dd9ImXtAtGwsmsAD69KZT,La Butte Rouge,0,134467,0,['Francis Marty'],['2nuMRGzeJ5jJEKlfS7rZ0W'],1922,0.51,0.355,4,-12.833,1,0.124,0.965,0.0,0.155,0.727,85.754,5
+0IA0Hju8CAgYfV1hwhidBH,La Java,0,161427,0,['Mistinguett'],['4AxgXfD7ISvJSTObqm4aIE'],1922,0.563,0.184,4,-13.757,1,0.0512,0.993,1.55E-05,0.325,0.654,133.088,3
+0IgI1UCz84pYeVetnl1lGP,Old Fashioned Girl,0,310073,0,['Greg Fieler'],['5nWlsH5RDgFuRAiDeOFVmf'],1922,0.488,0.475,0,-16.222,0,0.0399,0.62,0.00645,0.107,0.544,139.952,4
+0JV4iqw2lSKJaHBQZ0e5zK,Martín Fierro - Remasterizado,0,181173,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.548,0.0391,6,-23.228,1,0.153,0.996,0.933,0.148,0.612,75.595,3
+0OYGe21oScKJfanLyM7daU,Capítulo 2.8 - Banquero Anarquista,0,99100,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.676,0.235,11,-22.447,0,0.96,0.794,0.0,0.21,0.724,96.777,3
+0PE42H6tslQuyMMiGRiqtb,Capítulo 2.25 - Banquero Anarquista,0,132700,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.75,0.229,2,-22.077,1,0.955,0.578,0.0,0.314,0.531,102.629,3
+0PH9AACae1f957JAavhOl2,Lazy Boi,0,157333,0,['Uli'],['45tIt06XoI0Iio4LBEVpls'],1922-02-22,0.298,0.46,1,-18.645,1,0.453,0.521,0.856,0.436,0.402,87.921,4
+0QiT0Oo5QdLXdFw6RDOj7h,Tu Verras Montmartre,1,186800,0,['Lucien Boyer'],['4mSouLpNSEY1d7OdIjlFiP'],1922,0.703,0.28,0,-15.39,1,0.174,0.995,6.84E-05,0.163,0.897,127.531,4
+0TWsNj5iSvbMTtbEDP7A4V,Elle Prend L'boulevard Magenta,0,172027,0,['Félix Mayol'],['7DIlOK9L8d0IQ7Xk8aJxDW'],1922,0.709,0.289,2,-14.978,1,0.18,0.967,0.0,0.119,0.84,107.515,4
+0cC9CYjLRIzwchQ42xVnq6,Capítulo 1.23 - Banquero Anarquista,0,96600,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.687,0.198,4,-24.264,0,0.962,0.754,0.0,0.197,0.478,78.453,1
+0eb1PfHxT6HnXvvdUOzmME,Capítulo 1.18 - Banquero Anarquista,0,103200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.8,0.171,8,-24.384,1,0.953,0.67,0.0,0.123,0.693,59.613,3
+0grXU6GKVNCVMJbseA0Uhe,Capítulo 1.10 - Banquero Anarquista,0,95800,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.7,0.208,2,-23.874,1,0.956,0.691,0.0,0.441,0.613,85.739,1
+0kCB1bDVBC8gWCFcnJyIZc,Ca C'est Une Chose,0,188000,0,['Victor Boucher'],['7vVR02JJYvsEAEPNHQMx0Q'],1922,0.352,0.334,5,-13.038,1,0.0594,0.996,0.00746,0.36,0.414,76.403,4
+0l3BQsVJ7F76wlN5QhJzaP,El Vendaval - Remasterizado,0,153533,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.37,0.372,2,-17.138,1,0.0865,0.985,0.000681,0.929,0.753,159.669,4
+0pXUGQcBxfoQXg2e7G9Wwk,Ta Bouche,0,180933,0,['Jeanne Saint Bonnet'],['4ZACxcKyd37u9WSxCAvLP2'],1922,0.335,0.304,7,-14.062,1,0.0506,0.996,0.0832,0.102,0.215,76.576,3
+0wA4YFw7ZNnpasfjVgJxpv,Capítulo 1.22 - Banquero Anarquista,0,109100,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.704,0.244,0,-25.353,1,0.959,0.728,0.0,0.168,0.644,84.489,3
+0xJCJ9XSNcdTIz0QKmhtEn,La Maleva - Remasterizado,0,181440,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.339,0.0958,8,-26.944,1,0.053,0.994,0.969,0.123,0.219,86.279,3
+0zyKYuXwmo8eR3BBxoxVEO,Capítulo 2.3 - Banquero Anarquista,0,113200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.655,0.214,0,-23.337,1,0.962,0.665,0.0,0.279,0.761,76.087,1
+10XXG7gG75jIREUaModzOY,Capítulo 1.2 - Banquero Anarquista,0,109500,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.673,0.239,5,-22.552,1,0.96,0.539,0.0,0.633,0.644,83.532,4
+10u9ZWsOnhEyqFJCC2rQVy,J'ai Vendu Mon Âme,0,168000,0,['Adolphe Bérard'],['4avV2NAdyMOjy4qqYfKNR7'],1922,0.582,0.152,10,-13.742,1,0.0914,0.972,0.0,0.31,0.546,95.779,3
+112adU33vo4C1eRZct2hWy,Nuits De Chine,4,180800,0,['Louis Lynel'],['28pbIiOohRRZjqpAM9iqYM'],1922,0.42,0.288,7,-14.005,1,0.0701,0.994,0.000216,0.196,0.4,139.575,3
+15BEv0mKGqHHxyDAcLJ7ei,En la Huella del Querer - Remasterizado,0,150160,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.373,0.176,4,-22.045,0,0.0703,0.994,0.866,0.157,0.383,106.595,1
+1CZkVPFUK7wO1sMOlBHxJr,C'est La Mode Et Voila Tout,0,180400,0,['Perchicot'],['2kBMqLbeN3STYqwPqJW45j'],1922,0.592,0.408,10,-11.585,0,0.271,0.993,1.54E-06,0.413,0.766,81.126,4
+1EFtYew3kxq3gP55juunCR,Chapter 1.6 - Szkolne przygody Pimpusia Sadełko,0,149700,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.749,0.289,9,-19.047,1,0.952,0.652,0.0,0.129,0.326,90.285,3
+1FnTOwM5cW5N9wzCWziLKC,La Ronde De Nuit,0,177400,0,['Perchicot'],['2kBMqLbeN3STYqwPqJW45j'],1922,0.55,0.31,10,-15.423,0,0.168,0.992,0.0,0.204,0.568,125.829,4
+1HJRj2XztAhgO7dLBw6b7s,El Patotero Sentimental - Remasterizado,0,145627,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.482,0.0283,0,-23.414,0,0.0732,0.996,0.77,0.0989,0.33,77.642,4
+1HXdv1z9RlvrcUernyf0MY,The Dear Little Shamrock,0,191613,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.347,0.197,10,-15.652,1,0.0504,0.991,0.000133,0.196,0.246,109.338,3
+1KLKkACG16o5crQPiaF1Tz,Tus Suspiros - Remasterizado,0,168107,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.273,0.318,6,-18.597,1,0.0694,0.974,0.163,0.778,0.414,74.542,3
+1KgBLlvPR6BxDyBNDtCUP0,Ojos Funestos - Remasterizado,0,194200,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.373,0.244,8,-22.711,1,0.0538,0.993,0.0478,0.214,0.623,115.51,4
+1KxCqUwjiAHw7W0IIrRUwP,Capítulo 2.20 - Banquero Anarquista,0,99800,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.717,0.202,5,-22.807,1,0.967,0.7,0.0,0.294,0.683,81.64,4
+1MD0Obbza9l0t0Zpgcwagy,And Mimi,0,186147,0,"['Dick Haymes', 'Gordon Jenkins', 'His Orchestra']","['3BiJGZsyX9sJchTqcSA7Su', '58wzyK6DupVsypvs3QV2Fo', '6lXiGaWjISZnER53ZJe6QO']",1922,0.284,0.223,9,-15.733,0,0.0453,0.98,0.0813,0.345,0.226,77.234,3
+1O9iZyzufN1fUdVO97mmm5,How High the Moon,0,175333,0,"['Dick Haymes', 'Harry James', 'His Orchestra']","['3BiJGZsyX9sJchTqcSA7Su', '5MpELOfAiq7aIBTij30phD', '6lXiGaWjISZnER53ZJe6QO']",1922,0.328,0.307,0,-11.573,1,0.0484,0.989,0.277,0.21,0.259,117.225,4
+1PGLk4jyXA8oWTBtMyYlwX,El Huerfano - Remasterizado,0,171013,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.462,0.119,4,-20.938,0,0.0793,0.996,0.88,0.0773,0.407,122.895,4
+1QDTYyfndMN9SDtRKDv9XO,Pas Pour Moi,0,204773,0,['Maurice Chevalier'],['3QXjI80udwDSEfxK5BjUXc'],1922,0.532,0.375,7,-13.321,1,0.298,0.995,1.22E-06,0.276,0.508,80.379,4
+1V5PoYJVCYMHPWAZHxk6IA,Capítulo 1.16 - Banquero Anarquista,0,105500,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.717,0.242,0,-23.287,1,0.947,0.679,0.0,0.318,0.565,119.533,4
+1VuFIir7DL0mc6bppGMa3r,La Canción del Cabaret - Remasterizado,0,141440,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.458,0.178,8,-18.754,1,0.0614,0.992,0.817,0.413,0.286,69.128,5
+1ZYRk4U7EuJwdRZNHpEBIz,Éléonore,0,164600,0,['Dréan'],['18mX1gMCx67ZdPRtv644Wi'],1922,0.52,0.262,11,-12.619,0,0.132,0.994,0.000852,0.227,0.575,69.125,4
+1b8HZQCqcqwbzlA1jRTp6E,En Douce,0,223440,0,['Mistinguett'],['4AxgXfD7ISvJSTObqm4aIE'],1922,0.427,0.18,10,-15.375,1,0.067,0.989,0.0,0.128,0.431,78.459,3
+1g7vO6aQ6NI5EcjzYs3RGf,Capítulo 1.13 - Banquero Anarquista,0,97600,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.721,0.127,0,-23.639,1,0.95,0.817,0.0,0.178,0.628,118.159,5
+1kXWSsJkBVZ1jSoI8NnEDm,Marta,0,177693,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.255,0.343,0,-9.373,1,0.0305,0.987,0.0153,0.326,0.313,101.096,4
+1l1Wk0nOkuMCzioN6l2yfJ,Carol of the Bells,0,286370,0,['Grandcubby Trio'],['4XVZpokXbUzg6QeomBANY9'],1922,0.382,0.75,10,-11.599,1,0.0742,0.123,0.751,0.725,0.346,149.787,3
+1lia44teZBfbv0PnPkc5dK,Machinalement,0,145400,0,['Victor Boucher'],['7vVR02JJYvsEAEPNHQMx0Q'],1922,0.457,0.193,4,-16.816,1,0.0655,0.996,0.348,0.0809,0.671,177.097,4
+1pGBOfY0PvpArBZT7GaUVK,Capítulo 2.19 - Banquero Anarquista,0,106000,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.729,0.211,10,-22.143,1,0.957,0.769,0.0,0.556,0.728,110.862,5
+1qQeEBayDNySHIiYmvQge0,Capítulo 2.12 - Banquero Anarquista,0,101500,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.741,0.213,5,-22.053,1,0.962,0.619,0.0,0.534,0.719,93.515,1
+1tKqAvRoP2RQfxftl4hVJT,Capítulo 2.21 - Banquero Anarquista,0,142700,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.685,0.257,5,-19.934,1,0.955,0.563,0.0,0.112,0.642,98.142,4
+1v0HtSUeQOu3ba28pvYE5y,Chicago (That Toddlin' Town),0,111256,0,['Jim Chapman'],['0DhFxctImIYNNSEHuLQi5U'],1922,0.491,0.439,4,-11.356,0,0.105,0.626,0.0,0.321,0.792,180.653,4
+213QIyv1KZIeGg7oXAMbah,Mi Guitarra - Remasterizado,0,169853,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.236,0.124,1,-22.971,1,0.0515,0.995,0.981,0.149,0.409,71.524,3
+21yni4TcBS35MlxLjzV51t,Practicante - Remasterizado,0,138587,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.43,0.168,7,-19.558,1,0.0622,0.995,0.928,0.246,0.437,58.863,4
+2AmBgj8nNVeN2diZh91jLh,Chapter 1.5 - Szkolne przygody Pimpusia Sadełko,0,156300,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.714,0.211,1,-18.882,1,0.956,0.629,0.0,0.12,0.311,46.973,4
+2B9d7LBGJvQEKiLEAexCOP,Toda Alma - Remasterizado,0,180253,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.545,0.268,1,-23.029,1,0.191,0.995,0.92,0.112,0.648,126.614,4
+2BVWvGSdgUZtC2La5P3Jtv,L'amour Au Clair De Lune,0,156960,0,['Adolphe Bérard'],['4avV2NAdyMOjy4qqYfKNR7'],1922,0.467,0.328,7,-13.227,1,0.0354,0.991,1.57E-05,0.0705,0.701,87.132,4
+2Be2FRskn33cqPyeSdTqFd,No Me Olvides - Remasterizado,0,155093,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.484,0.0558,8,-25.33,0,0.0575,0.996,0.278,0.202,0.636,99.555,4
+2EapOmGwqUQrmHCP4LrsZi,Capítulo 2.7 - Banquero Anarquista,0,96100,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.673,0.237,5,-20.978,1,0.962,0.813,0.0,0.234,0.544,96.594,1
+2IMcezGQzHgqH8gIvXJM3Q,Till the End of Time,0,182227,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.208,0.234,8,-15.427,1,0.0426,0.986,0.656,0.234,0.209,85.288,3
+2MHbLEapczIltPOYYEzQtE,Como una Flor - Remasterizado,0,151040,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.218,0.394,10,-19.492,0,0.0388,0.981,0.301,0.505,0.749,82.287,4
+2PF5orWaMQK4N1DwZJ20J8,Capítulo 1.12 - Banquero Anarquista,0,96300,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.751,0.173,5,-25.234,1,0.951,0.683,0.0,0.128,0.594,95.599,4
+2SiNuAZ6jIU9xhClRKXcST,Sketch,0,87040,0,['Uli'],['45tIt06XoI0Iio4LBEVpls'],1922-02-22,0.634,0.00399,5,-29.973,0,0.0377,0.926,0.919,0.105,0.396,79.895,4
+2UU5t5j325ofKGcg7oUQNh,Sin Amor - Remasterizado,0,130987,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.543,0.424,5,-18.425,1,0.269,0.99,0.0379,0.861,0.659,68.567,4
+2bKTO2M7es2IGg7qYqlvM7,Capítulo 1.8 - Banquero Anarquista,0,101500,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.715,0.204,1,-23.646,1,0.943,0.581,0.0,0.169,0.565,107.77,5
+2cK20o1IdLmUIC4NoPWzOt,Flor Marchita - Remasterizado,0,153133,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.36,0.0954,0,-24.17,0,0.064,0.994,0.726,0.107,0.344,76.3,3
+2dr1Ywu6gEnLrO1JS4raFb,Chapter 1.7 - Szkolne przygody Pimpusia Sadełko,0,176252,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.642,0.212,5,-18.598,0,0.951,0.635,0.0,0.107,0.334,84.918,4
+2lC5U846P7bQQPPHzOQpDh,Capítulo 2.13 - Banquero Anarquista,0,95700,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.721,0.218,0,-22.449,1,0.941,0.596,0.0,0.426,0.557,116.438,3
+2mvSGvt6EjOO5HzUSz54mP,Chapter 1.1 - Szkolne przygody Pimpusia Sadełko,0,178000,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.66,0.211,0,-19.491,1,0.96,0.738,0.0,0.118,0.272,86.236,4
+2u7t2vcrLxKp69Um0MDEs2,Capítulo 1.14 - Banquero Anarquista,0,116200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.721,0.196,8,-23.698,1,0.939,0.643,0.0,0.226,0.587,118.9,3
+2vOhKgXKFpej7mv3mOwoF4,Capítulo 1.21 - Banquero Anarquista,0,102000,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.625,0.187,10,-24.686,1,0.963,0.831,0.0,0.424,0.576,76.537,3
+2vSAIArCi0f9b9Ll612hFK,Capítulo 2.4 - Banquero Anarquista,0,97600,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.732,0.176,0,-21.808,1,0.966,0.623,0.0,0.442,0.771,76.708,1
+2wWS5DZYc50AzbiXC57vGt,Capítulo 2.14 - Banquero Anarquista,0,95200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.827,0.258,5,-21.896,1,0.956,0.658,0.0,0.316,0.73,41.694,3
+38u3k7zUGTp48G1oA3ky3R,The Girl That I Marry,0,182920,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.185,0.151,7,-17.822,1,0.0391,0.985,0.798,0.151,0.135,88.945,3
+3FBXaR512ufrrickKCasRN,Capítulo 1.7 - Banquero Anarquista,0,106000,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.735,0.244,10,-22.252,1,0.956,0.666,0.0,0.253,0.618,85.079,4
+3FfL0WRdyrEFPlPvmqj2lJ,Capítulo 1.9 - Banquero Anarquista,0,106900,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.619,0.173,0,-23.13,1,0.967,0.73,0.0,0.145,0.653,181.485,4
+3QkuxlHi5RXa2YBr6S52n3,Capítulo 2.9 - Banquero Anarquista,0,99900,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.768,0.232,7,-21.678,0,0.962,0.593,0.0,0.304,0.591,64.433,4
+3ROtnqCtqrMbaDkivZyV5n,Entrerriana - Remasterizado,0,183720,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.431,0.2,5,-23.557,0,0.0322,0.995,0.821,0.139,0.543,108.65,3
+3XxlglpLYkpZIfU1c1C5e4,Pobre Cotorro - Remasterizado,0,159800,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.564,0.053,6,-25.041,0,0.127,0.996,0.927,0.117,0.407,140.216,4
+3aynsWyvRwa1r5ekqaWxD3,Mirage,0,176000,0,['Adolphe Bérard'],['4avV2NAdyMOjy4qqYfKNR7'],1922,0.497,0.218,4,-13.547,1,0.0345,0.992,0.0,0.311,0.56,88.412,4
+3c8AbdpLH4SSbTHsN71XDN,Un Placer - Remasterizado,0,177773,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.527,0.142,8,-20.701,0,0.0612,0.996,0.907,0.113,0.896,126.702,4
+3d8zXYhG3sFx4uL9vv8IRu,Le Tango Neurasthénique,0,187040,0,['Georgius'],['0Yly6PvJghpLD3Lj8Kvpcj'],1922,0.564,0.433,2,-14.619,0,0.356,0.979,3.74E-06,0.226,0.601,72.003,4
+3f9p4JTCiipdjDtKGZHqP4,Capítulo 2.17 - Banquero Anarquista,0,99000,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.695,0.186,7,-21.822,1,0.957,0.748,0.0,0.289,0.598,138.487,3
+3fKqEoaJZODF7Xhh7qH4Wv,Capítulo 2.10 - Banquero Anarquista,0,106800,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.702,0.2,7,-22.999,1,0.961,0.642,0.0,0.36,0.773,81.152,4
+3h8ioTTWfrC25hrHwQQpLc,All Or Nothing at All,0,164320,0,"['Dick Haymes', 'Harry James', 'His Orchestra']","['3BiJGZsyX9sJchTqcSA7Su', '5MpELOfAiq7aIBTij30phD', '6lXiGaWjISZnER53ZJe6QO']",1922,0.237,0.555,2,-6.611,0,0.0401,0.812,0.000262,0.366,0.292,92.213,3
+3hkX4bDXEzd4w6aTiDkvrR,Keepsakes,0,180733,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.176,0.358,0,-9.713,0,0.0459,0.989,0.335,0.102,0.111,83.026,4
+3rcerSJNOkfgB9CELqcRHL,Capítulo 1.5 - Banquero Anarquista,0,108200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.773,0.155,9,-24.523,0,0.963,0.591,0.0,0.13,0.494,52.032,4
+41UwGhrmaTNXguHZjRkZbC,Capítulo 2.2 - Banquero Anarquista,0,96400,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.646,0.26,9,-23.14,0,0.963,0.757,0.0,0.226,0.656,162.698,3
+41sGC22d62AApd4dbiwhfr,Capítulo 2.11 - Banquero Anarquista,0,109400,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.78,0.18,1,-23.253,0,0.963,0.676,0.0,0.63,0.788,58.554,4
+42lF2Ke3RUCoptNImf3SBj,I Ought to Know More About You,0,185653,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.607,0.253,9,-9.944,0,0.0414,0.989,1.99E-06,0.225,0.555,132.161,4
+450NWyAOOQ4cOPrp7ZRp13,Pobre Madrecita - Remasterizado,0,183027,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.53,0.147,9,-22.26,1,0.0663,0.996,0.894,0.114,0.552,69.451,4
+45QQGQZMPaVxlg0edajDgk,Primera Ilusión - Remasterizado,0,160267,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.388,0.202,8,-26.173,1,0.0517,0.993,0.917,0.111,0.83,181.105,3
+45u40aoKGpIanpGW3ZTqMU,Capítulo 1.1 - Banquero Anarquista,0,114300,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.634,0.237,9,-21.09,0,0.961,0.482,0.0,0.152,0.634,169.956,4
+46NvxfK2FwCMpMsRTBFkjR,Soft Lights and Sweet Music,0,171080,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.328,0.323,7,-12.78,1,0.0331,0.985,0.0395,0.357,0.153,125.653,3
+4BKzNMRJdoDE6nsC4DbOEh,Chapter 1.4 - Szkolne przygody Pimpusia Sadełko,0,161100,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.697,0.221,5,-19.756,0,0.956,0.597,0.0,0.335,0.393,103.309,3
+4CjnVzvSu86vqI5gY8SjPx,Elle Vendait Des P'tits Gateaux,0,151573,0,['Félix Mayol'],['7DIlOK9L8d0IQ7Xk8aJxDW'],1922,0.716,0.301,5,-14.07,1,0.105,0.987,0.0,0.277,0.969,129.153,4
+4DE7VBCgyTjqV0Plc9Ra0U,Hush-A-Bye (Wee Rose of Kilarney),0,156880,0,"['Dick Haymes', 'Victor Young', 'His Orchestra']","['3BiJGZsyX9sJchTqcSA7Su', '3HqN7Sq7rmpOEI9UV5ERuz', '6lXiGaWjISZnER53ZJe6QO']",1922,0.279,0.128,0,-19.793,1,0.0406,0.994,0.613,0.116,0.145,79.121,5
+4FCWuuqM851ACz8p1b41fi,Capítulo 2.23 - Banquero Anarquista,0,97200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.714,0.219,9,-21.185,0,0.954,0.52,0.0,0.222,0.54,110.822,3
+4RR5RKLA2vTQxkWrMIeHem,Cap Polonio - Remasterizado,0,161080,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.541,0.161,3,-21.25,1,0.094,0.996,0.907,0.129,0.708,143.105,4
+4UnGZFw9ot80NLBBBFImny,Chapter 1.3 - Szkolne przygody Pimpusia Sadełko,0,311000,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.624,0.213,1,-19.016,1,0.958,0.764,0.0,0.151,0.382,74.428,3
+4Vw0vSS31VCTYZXML5mMNX,Serenade of the Bells,0,181200,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.269,0.255,0,-9.041,1,0.0536,0.984,0.00263,0.178,0.154,79.186,4
+4iy1fsAHBgR2STJjPDhjY2,Mes Parents Sont Venus Me Chercher,0,183840,0,['Fortugé'],['0hKr2636wsQI7PrARkAiaA'],1922,0.554,0.204,7,-14.764,1,0.0598,0.995,1.24E-06,0.153,0.62,97.337,4
+4jhUNBqlFI21O7L0sKl507,As If I Didn't Have Enough On My Mind,0,148440,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.32,0.246,0,-15.79,1,0.0463,0.991,0.85,0.419,0.312,84.275,4
+4m7uJS9VZlVnUG8oI1o0wx,Capítulo 2.22 - Banquero Anarquista,0,100600,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.677,0.314,0,-20.417,1,0.963,0.334,0.0,0.603,0.486,74.906,5
+4sAPfFxCxKIF571z6JwL4r,De Mil Amores - Remasterizado,0,174453,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.442,0.177,9,-19.632,1,0.0571,0.994,0.000896,0.491,0.562,128.395,4
+4vRhdBugLI9JQGsx3UfrAt,Cachonguita - Remasterizado,0,190653,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.45,0.0522,1,-29.357,0,0.0583,0.996,0.929,0.158,0.413,72.401,5
+4vV7uBcF2AnjNTOejBS5oL,L'enfer,0,40000,0,['Uli'],['45tIt06XoI0Iio4LBEVpls'],1922-02-22,0.657,0.325,10,-14.319,0,0.254,0.199,0.856,0.0931,0.105,81.944,5
+4xDAzKsPZg7kMOhsnXHOO7,Metejón - Remasterizado,0,155653,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.493,0.0763,4,-25.843,1,0.0612,0.996,0.909,0.169,0.683,75.313,5
+4yTwNqT53nEaIMMxDsnNr3,When a Gypsy Makes a Violin Cry,0,180587,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.31,0.342,0,-10.751,0,0.0415,0.958,0.00217,0.371,0.111,82.51,5
+4yfqwU24XlVWLJTaBD3qQW,Capítulo 1.17 - Banquero Anarquista,0,95000,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.736,0.216,2,-26.027,0,0.959,0.649,0.0,0.465,0.492,80.642,3
+553V3FZf6yTv89rweIPLHs,Capítulo 1.3 - Banquero Anarquista,0,98600,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.723,0.22,1,-23.012,1,0.932,0.532,0.0,0.136,0.595,119.519,3
+56GdrUlLtRUtcF4afPH40o,Remembranza - Remasterizado,0,164653,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.53,0.0468,3,-24.856,0,0.0853,0.996,0.937,0.0982,0.42,129.602,4
+598LlBn6jpEpVbLjmZPsYV,Graphite,0,104400,0,['Uli'],['45tIt06XoI0Iio4LBEVpls'],1922-02-22,0.644,0.684,7,-8.247,1,0.199,0.144,0.802,0.0847,0.138,100.031,4
+5CHSAhLggPpOYK5mpw8upO,Capítulo 2.24 - Banquero Anarquista,0,98500,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.632,0.217,0,-22.671,1,0.963,0.525,0.0,0.149,0.605,167.268,3
+5IlNHZg8dNQTT6hCZ0Ax28,Capítulo 1.24 - Banquero Anarquista,0,99200,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.62,0.187,5,-24.169,1,0.962,0.845,0.0,0.138,0.729,176.485,3
+5P35CyOEQiMqf8Hd6Pty5p,Méfiez Vous D'anatole,0,192933,0,['Georgius'],['0Yly6PvJghpLD3Lj8Kvpcj'],1922,0.625,0.35,10,-15.916,1,0.312,0.984,0.0,0.0988,0.808,81.567,4
+5PJCXNLtJSB3XerASHg7eA,Ensueño de Oro - Remasterizado,0,151027,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.43,0.155,1,-26.685,0,0.116,0.995,0.952,0.202,0.564,96.58,4
+5SB8vVP2D73dMsDreQaY73,Hush Little Darlin',0,195347,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.328,0.201,10,-16.491,1,0.0408,0.985,0.517,0.113,0.31,79.883,5
+5WQcloalnv2qA55iMcsxve,Capítulo 2.5 - Banquero Anarquista,0,108400,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.714,0.2,5,-22.017,1,0.965,0.5,0.0,0.246,0.589,88.307,4
+5ZQdHBQwtS0iKSyRmFg7hB,Capítulo 1.26 & Capítulo 2.1 - Banquero Anarquista,0,117900,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.661,0.225,2,-23.33,0,0.966,0.865,0.0,0.239,0.692,86.89,3
+5cIke4L8FPFzxkFlFYrMMD,Capítulo 1.11 - Banquero Anarquista,0,100700,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.718,0.221,0,-24.788,1,0.949,0.728,0.0,0.152,0.538,121.225,3
+5cUFFY2Atw4QeFitueQCt2,El Huerfano - Remasterizado,0,159800,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.366,0.0749,7,-26.34,1,0.0806,0.996,0.924,0.117,0.515,90.969,3
+5d5gQxHwYovxR5pqETOIAa,J'en Ai Marre,0,208267,0,['Mistinguett'],['4AxgXfD7ISvJSTObqm4aIE'],1922,0.511,0.206,0,-15.514,1,0.0592,0.995,0.0,0.418,0.481,70.443,4
+5kAxzo7Dog9Buovp3xXVO7,Nostalgia - Remasterizado,0,139760,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.496,0.158,8,-18.494,1,0.0423,0.995,0.638,0.206,0.347,79.871,4
+5mELfHhlldkCNPZUK9oxTi,Chapter 1.2 - Szkolne przygody Pimpusia Sadełko,0,216900,0,['Maria Konopnicka'],['6NyLf1mINBZQcR8gWeE5kC'],1922-01-06,0.688,0.207,3,-19.559,0,0.956,0.731,0.0,0.122,0.416,99.681,1
+5wfVO3v2ZiWmQvJuRgJANe,Monigote - Remasterizado,0,179813,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.422,0.561,5,-18.573,0,0.461,0.98,3.41E-06,0.966,0.528,121.542,4
+5wg1nnx7c2kri8kx5xlCFH,El Beso de la Muerte - Remasterizado,0,158587,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.493,0.0997,5,-23.446,1,0.0607,0.996,0.481,0.192,0.587,127.023,4
+63IcPgVIW0PWeJTaIY7GCu,Le Petit Amant,0,120760,0,['Jeanne Saint Bonnet'],['4ZACxcKyd37u9WSxCAvLP2'],1922,0.656,0.283,4,-14.113,1,0.191,0.996,0.00597,0.155,0.67,126.085,4
+69mWzKmxFFwIAJS8nzcCgO,Recuerdo Criollo - Remasterizado,0,186200,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.313,0.102,10,-30.026,0,0.0436,0.985,0.97,0.102,0.312,67.575,3
+6E4t6Sor5rWOLQDCAdI0vN,Despedida - Remasterizado,0,178373,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.425,0.308,1,-21.085,0,0.0534,0.98,0.0,0.631,0.509,64.738,4
+6GhbZRE9N2TPf86zI1dIxQ,You'll Never Know,0,165253,0,"['Dick Haymes', 'The Pied Pipers']","['3BiJGZsyX9sJchTqcSA7Su', '5o8E07TcYqIefZpDejymAd']",1922,0.392,0.128,2,-15.22,1,0.0378,0.994,0.153,0.0983,0.226,126.728,3
+6MD9XSLD4VmVI5SFRPm6By,Car Loans,0,172803,0,['Uli'],['45tIt06XoI0Iio4LBEVpls'],1922-02-22,0.651,0.574,10,-11.999,0,0.104,0.474,0.713,0.0597,0.412,99.878,4
+6UrbwimNzaLdtD86mpIKRa,Capítulo 1.4 - Banquero Anarquista,0,95100,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.657,0.181,7,-24.188,0,0.963,0.727,0.0,0.456,0.538,93.335,3
+6eew1OP57TeUDUMcjYE6A0,La Muchacha - Remasterizado,0,164320,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.323,0.106,8,-25.138,1,0.0483,0.992,0.918,0.182,0.255,71.432,3
+6hH0kKnTWoGq5wppHKj5ie,Stardust,0,172933,0,['Dick Haymes'],['3BiJGZsyX9sJchTqcSA7Su'],1922,0.208,0.226,8,-14.518,1,0.0331,0.985,0.81,0.219,0.22,74.03,3
+6qXSeW8iUiHpbgRiqQO3aJ,Pobre Gaucho - Remasterizado,0,155253,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-29,0.476,0.131,2,-29.575,0,0.0523,0.995,0.929,0.102,0.635,69.409,4
+6tl1bsB5SXbsLjOndGiM7Q,El Poder de Tus Ojos - Remasterizado,0,172800,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.357,0.244,1,-21.2,1,0.0478,0.993,0.0455,0.274,0.559,72.51,5
+71uB09gmVxuvPAC58e3Sub,Capítulo 1.25 - Banquero Anarquista,0,127600,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.728,0.162,5,-23.956,0,0.965,0.872,0.0,0.176,0.734,83.11,4
+71yYnLlqCTFGWt5ngD9ran,Capítulo 2.6 - Banquero Anarquista,0,95300,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.769,0.205,5,-22.656,0,0.965,0.716,0.0,0.362,0.611,58.187,5
+7C1flDj1663TYWAZEc5koB,Capítulo 1.15 - Banquero Anarquista,0,101100,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.646,0.189,2,-24.744,0,0.964,0.653,0.0,0.284,0.5,77.558,1
+7Iw8kyznP3k7593uAZ9mWi,Capítulo 1.20 - Banquero Anarquista,0,104900,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.757,0.217,0,-24.84,1,0.959,0.693,0.0,0.208,0.5,84.532,4
+7LzNrzedyuLV7qh3Q2m1QQ,Capítulo 1.6 - Banquero Anarquista,0,105800,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.755,0.152,0,-24.274,1,0.962,0.647,0.0,0.134,0.487,78.263,3
+7kFLV07SflDhEmpH2onfVr,Capítulo 2.18 - Banquero Anarquista,0,102700,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.69,0.177,5,-22.527,1,0.959,0.672,0.0,0.272,0.683,141.588,1
+7mFmbNkbJjrvDMukkza3OF,Pobre China - Remasterizado,0,158573,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1922-03-21,0.564,0.178,9,-26.435,1,0.0432,0.995,0.921,0.112,0.706,60.422,4
+7p94hrYktZStgIu6TCj3cZ,Antoine,0,165200,0,['Fortugé'],['0hKr2636wsQI7PrARkAiaA'],1922,0.537,0.153,8,-15.217,1,0.0898,0.994,0.0,0.419,0.558,129.134,4
+7qZgukGp84vuPKrxzM3J4T,Capítulo 1.19 - Banquero Anarquista,0,104900,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.738,0.19,5,-23.999,1,0.963,0.796,0.0,0.146,0.641,74.859,4
+7qiy1Sp4KTJKzQifOhY0IP,Everytime I Meet You,0,178653,0,"['Dick Haymes', 'Gordon Jenkins', 'His Orchestra']","['3BiJGZsyX9sJchTqcSA7Su', '58wzyK6DupVsypvs3QV2Fo', '6lXiGaWjISZnER53ZJe6QO']",1922,0.295,0.277,7,-10.849,1,0.0346,0.989,0.122,0.194,0.174,81.05,4
+7svwanLaFaRLh3EwgYy2jl,Capítulo 2.15 - Banquero Anarquista,0,96500,0,['Fernando Pessoa'],['14jtPCOoNZwquk5wd9DxrY'],1922-06-01,0.723,0.221,9,-21.736,0,0.957,0.711,0.0,0.218,0.693,108.419,5
+7yWdEDmuqweoRkhZeftRtR,Sur La Pointe Des Pieds,0,187733,0,['Georgius'],['0Yly6PvJghpLD3Lj8Kvpcj'],1922,0.528,0.343,0,-14.963,0,0.315,0.995,0.0,0.385,0.634,83.2,4
+2wAfHM7Whz67VFbdanhZlk,Nobody Knows You When You're Down and Out,41,177133,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.614,0.0423,4,-12.033,1,0.0535,0.996,0.00293,0.183,0.211,89.822,4
+3eMrYc092k7SIJfWJ7oasR,Weather Bird,38,161933,0,"['Louis Armstrong', 'Earl Hines']","['19eLuQmk9aCobbVDHc6eek', '2mY5u4CceAPrpBnse1WpFr']",1923,0.831,0.262,8,-12.386,1,0.0942,0.984,0.912,0.204,0.901,104.606,4
+2AZgaYZSwUosJD71J2N2Zo,'Tain't Nobody's Bizness If I Do,30,206600,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.537,0.0443,3,-16.474,0,0.0343,0.996,0.000265,0.152,0.137,80.468,4
+7lRFR5GJCxK87ZbVMtQSeS,Ain't Misbehavin',28,192600,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.665,0.254,8,-9.879,1,0.108,0.976,0.00217,0.644,0.503,125.734,4
+6XTvSCqGLLH0vzQQRn55hz,"Empty Bed Blues, Pt. 1",27,181173,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.709,0.062,5,-12.207,1,0.048,0.995,0.00341,0.12,0.553,85.854,4
+6qRvnXftofjYJm1Mg98UWL,Need a Little Sugar in My Bowl,27,167640,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.693,0.027,0,-13.506,0,0.0562,0.992,0.0,0.134,0.402,75.749,4
+0V1iYWPXCBTaB6dhbiprGF,Send Me to the 'Lectric Chair,26,201480,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.771,0.0905,3,-7.788,1,0.0613,0.986,0.000141,0.152,0.601,87.571,4
+6sOKopKyVWwEJKh8zztYp5,Young Woman's Blues,25,187960,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.525,0.232,8,-7.649,1,0.0335,0.995,0.0181,0.461,0.411,76.14,4
+0rUf1j43orpfi6f4LbVo8D,Careless Love,25,205053,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.587,0.175,2,-9.935,1,0.0384,0.992,0.000318,0.073,0.483,98.523,4
+1yjck0Owf0HfhY5kWHiXIQ,Me and My Gin,23,169960,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.71,0.0735,5,-12.526,1,0.0488,0.99,0.0,0.0941,0.494,90.917,4
+2ivh0kwd7QIViw6YqDPdBA,Blue Yodel No. 9,23,157373,0,['Jimmie Rodgers'],['0Y0ZlznP6vzTS1qAm5dvTN'],1923,0.76,0.251,3,-11.491,1,0.0602,0.969,2.43E-06,0.0561,0.735,108.456,4
+50zXyjVdFb3xAr3hnyYYn1,St. Louis Blues,23,189600,0,"['Bessie Smith', 'Louis Armstrong']","['5ESobCkc6JI4tIMxQttqeg', '19eLuQmk9aCobbVDHc6eek']",1923,0.355,0.114,10,-15.968,1,0.0588,0.991,0.00686,0.108,0.258,69.902,4
+4ejUoPIMggFTVrAyvodqJQ,St. Louis Blues (with Louis Armstrong),23,190107,0,"['Bessie Smith', 'Louis Armstrong']","['5ESobCkc6JI4tIMxQttqeg', '19eLuQmk9aCobbVDHc6eek']",1923,0.408,0.145,10,-10.99,1,0.0501,0.994,4.73E-05,0.138,0.294,68.8,4
+2gyqc4p3WoxKsc6zaXF4hM,Backwater Blues,22,198053,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.516,0.146,2,-8.985,1,0.0454,0.993,0.0223,0.172,0.412,71.144,3
+5lpBC66XQzpVDJuknDUuZd,Baby Won't You Please Come Home,22,176067,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.683,0.0534,0,-16.704,1,0.0356,0.996,0.000335,0.141,0.44,79.488,4
+1xEEYhWxT4WhDQdxfPCT8D,Snake Rag,20,194533,0,"[""King Oliver's Creole Jazz Band""]",['08Zk65toyJllap1MnzljxZ'],1923,0.708,0.361,0,-11.764,0,0.0441,0.994,0.883,0.103,0.902,105.695,4
+4ep3h4btBtuxsNeLFVzq5A,West End Blues,18,195400,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.621,0.274,3,-12.094,1,0.0514,0.986,0.63,0.113,0.523,84.788,4
+6ktCV1ZtqlnXQeRFQvcXON,Down Hearted Blues,17,205440,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.491,0.0583,0,-17.785,1,0.0431,0.996,0.376,0.137,0.556,166.27,4
+6N1wS1e5bMOubmVtkDLNrt,Gimme a Pigfoot and a Bottle of Beer,16,208827,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.691,0.198,7,-11.164,0,0.0784,0.971,0.00888,0.154,0.558,103.901,4
+7GRsQLXMzDHYb8zZAnMCDK,Sobbin' Hearted Blues,15,180533,0,"['Bessie Smith', 'Louis Armstrong']","['5ESobCkc6JI4tIMxQttqeg', '19eLuQmk9aCobbVDHc6eek']",1923,0.415,0.0795,0,-19.172,1,0.0908,0.995,3.73E-05,0.426,0.443,74.683,4
+08XPnovoMlLsFB3LDGq0rX,Muggles,14,168533,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.586,0.113,10,-12.211,1,0.0607,0.989,0.276,0.181,0.484,85.235,4
+3rauXVLOOM5BlxWqUcDpkg,Chimes Blues,14,170827,0,"[""King Oliver's Creole Jazz Band""]",['08Zk65toyJllap1MnzljxZ'],1923,0.546,0.189,0,-15.984,1,0.0581,0.996,0.908,0.339,0.554,80.318,4
+5WlMyDvyQedom0kQ3MCTow,Lazy River,14,182707,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.571,0.269,4,-11.728,0,0.067,0.96,0.0129,0.121,0.49,101.845,4
+1UdqHVRFYMZKU2Q7xkLtYc,Pickin' On Your Baby,11,197493,0,"[""Clarence Williams' Blue Five""]",['6RuQvIr0t0otZHnAxXTGkm'],1923,0.52,0.153,0,-14.042,1,0.044,0.995,0.131,0.353,0.319,102.937,4
+0F5F4GWA0Tz1ebZlLar2wG,Work House Blues,11,201267,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.417,0.0498,5,-13.523,1,0.0344,0.996,0.123,0.169,0.411,78.663,4
+0Vl2DO5U6FjgBpzCtBN3OA,Everybody Loves My Baby,10,152507,0,"[""Clarence Williams' Blue Five""]",['6RuQvIr0t0otZHnAxXTGkm'],1923,0.514,0.193,2,-13.92,0,0.238,0.996,0.199,0.248,0.665,180.674,4
+1h0wyCVd12PDSd6CLoGaVL,Preachin' the Blues,11,171027,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.703,0.185,8,-8.325,1,0.0441,0.993,0.00209,0.22,0.491,104.916,4
+2CStrJiuFeHNS84A3kaT8s,Black Mountain Blues,10,187507,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.641,0.063,0,-12.193,1,0.0727,0.995,2.21E-06,0.153,0.609,65.673,3
+3U6L5KW48YOsksN9Qvlydl,I've Got The World On A String,11,195000,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.544,0.181,5,-11.729,1,0.0387,0.985,0.0256,0.401,0.411,129.803,4
+3tkC9PMf19ffJlh65EdANg,You've Been a Good Old Wagon,10,208360,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.602,0.132,0,-11.319,1,0.0532,0.996,0.025,0.164,0.351,77.087,4
+527J3xtyY4MdrpKtWcJNtL,Long Old Road,11,206253,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.557,0.0792,0,-13.094,1,0.0541,0.991,0.0,0.186,0.494,79.768,4
+5SvyP1ZeJX1jA7AOZD08NA,Tears,10,187227,0,"[""King Oliver's Creole Jazz Band""]",['08Zk65toyJllap1MnzljxZ'],1923,0.359,0.357,3,-11.81,1,0.0511,0.994,0.819,0.29,0.753,205.053,4
+7qxfKQ5qlcunexI4f0qifa,There'll Be a Hot Time in the Old Town Tonight,10,199213,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.72,0.214,7,-6.571,0,0.07,0.99,6.03E-06,0.148,0.58,82.921,4
+1L0puqUCoINHyHjzzWXrHC,A Monday Date,8,192027,0,['Louis Armstrong & His Hot Seven'],['267SHEPfqnF16IEmwbLhLQ'],1923,0.745,0.396,0,-10.57,1,0.481,0.971,0.00179,0.238,0.751,117.753,4
+1mngGai1eXbHcBXuA6Z4jZ,I'm A Ding Dong Daddy,8,187627,0,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],['0ceJesJTMQFYalVhYf4aed'],1923,0.759,0.454,5,-11.245,1,0.0822,0.98,0.81,0.18,0.889,109.79,4
+1v6v5llnekLbreJYIRfkKc,Chicago Breakdown,8,203307,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.604,0.325,10,-10.48,1,0.213,0.985,0.84,0.195,0.629,168.506,4
+20VPM7ePvpxTQyZFjOiP1g,Beau Koo Jack,9,177240,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.733,0.418,3,-12.287,1,0.0765,0.949,0.792,0.229,0.961,121.289,4
+2AYdjRjSm49s6MFZiSlcSX,"Empty Bed Blues, Pt. 2",10,200093,0,['Bessie Smith'],['5ESobCkc6JI4tIMxQttqeg'],1923,0.8,0.0466,5,-12.145,1,0.0578,0.994,0.000165,0.111,0.489,84.544,4
+300WVfsVnOUJM2KXAm9IGS,Stardust,8,205533,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.717,0.209,1,-13.224,1,0.0622,0.979,0.439,0.0609,0.889,127.401,4
+3IL7X89mdAJ4ISGrGXi3sB,Texas Moaner Blues - 78rpm Version,8,186427,0,"[""Clarence Williams' Blue Five""]",['6RuQvIr0t0otZHnAxXTGkm'],1923,0.519,0.272,11,-15.573,1,0.0627,0.995,0.783,0.351,0.469,80.523,4
+4FINjzgcPjqR2PPpnWrCKF,Heebie Jeebies,8,172493,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.63,0.232,8,-13.627,1,0.0569,0.995,0.00627,0.124,0.59,164.027,4
+4GOd9yNQrpl6omACRgvCX2,Song of the Islands,8,208200,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.603,0.13,8,-13.74,1,0.0426,0.976,0.765,0.0943,0.381,143.497,4
+5bfjNeQIU43IJPNY6c56fB,Hotter Than That,8,179667,0,['Louis Armstrong & His Hot Seven'],['267SHEPfqnF16IEmwbLhLQ'],1923,0.792,0.321,8,-15.633,1,0.131,0.973,0.795,0.129,0.854,108.607,4
+02smo7WfO95Ww8MZw06h1p,Gut Bucket Blues,6,161800,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.602,0.216,0,-12.264,1,0.0676,0.996,0.524,0.0973,0.716,146.183,3
+06Q9isDLNDaHJNPa5lM4Cg,Struttin'With Some Barbecue,5,179840,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.726,0.212,8,-14.744,1,0.126,0.963,0.688,0.0798,0.825,97.21,4
+0HUCWtOLhJhXwSRn6pvzQC,Skid-Dat-De-Dat,6,181027,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.658,0.0841,5,-14.759,1,0.0496,0.994,0.767,0.088,0.504,121.494,4
+180gKK9WXgetU7EAxhCn7t,You Can't Shush Katie,7,183200,0,"[""Clarence Williams' Blue Five""]",['6RuQvIr0t0otZHnAxXTGkm'],1923,0.713,0.231,7,-13.375,1,0.067,0.995,0.0,0.436,0.675,108.482,4
+18NiVMY4Fz6MjnhrX8xFiM,That Rhythm Man,5,180600,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.719,0.388,1,-11.337,1,0.154,0.97,0.526,0.132,0.806,118.272,4
+1h0lfbm5uARsmDAkBikqfz,Memories Of You,5,191800,0,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],['0ceJesJTMQFYalVhYf4aed'],1923,0.615,0.13,3,-15.372,1,0.0466,0.992,0.0805,0.146,0.256,108.873,4
+1t2zq9TXj7mlSX8fcKwCbm,Blue Again,5,187707,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.598,0.31,5,-10.794,1,0.0714,0.978,0.0337,0.0766,0.537,110.346,4
+2DAK09fP0bobALaArOEeCI,(What Did I Do to Be So) Black and Blue,5,180307,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.681,0.188,0,-12.133,1,0.0482,0.988,0.00732,0.345,0.387,103.095,4
+2GnYkuVM8jQh4sFGGmDfcV,Weary Blues,5,177307,0,['Louis Armstrong & His Hot Seven'],['267SHEPfqnF16IEmwbLhLQ'],1923,0.573,0.246,5,-13.553,1,0.224,0.907,0.867,0.0752,0.965,205.419,4
+2SRy24tTjBERSmb3FHqzdb,On The Sunny Side Of The Street - Part 1,5,174373,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.585,0.228,0,-11.651,1,0.0475,0.989,8.55E-06,0.55,0.576,98.685,1
+2cmUadaXBixJGY2x87EMOa,Anybody Here Want to Try My Cabbage?,7,199293,0,['Maggie Jones'],['7EwPtp3HM2j3uiexxubIU8'],1923,0.584,0.201,9,-13.271,0,0.0575,0.976,0.0,0.689,0.58,82.549,4
+2n13QpmPEINmoTLUAlLCd7,King Of The Zulas,5,183133,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.536,0.168,2,-15.701,1,0.114,0.994,0.121,0.29,0.554,169.061,4
+2nwxT2BLHn5NjQj0wuEXAu,Between The Devil And The Deep Blue Sea,5,176400,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.625,0.203,5,-12.257,1,0.077,0.937,0.0208,0.0868,0.741,133.909,4
+31N4so4BNr6e0Hz2NtmU33,"Stomp Off, Let's Go",6,174893,0,"[""Erskine Tate's Vendome Orchestra""]",['5WEy7rY6Km6Qr6hNHHIqko'],1923,0.692,0.477,8,-13.342,1,0.363,0.994,0.929,0.369,0.96,118.604,4
+377bagPbNQx6K6RKjuUFQ3,Skip The Gutter,5,184133,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.653,0.131,8,-19.164,1,0.0628,0.977,0.733,0.6,0.593,124.1,4
+3DzcB6weYL3L7oRNmsJCaV,No One Else But You,6,201267,0,['Louis Armstrong & His Savoy Ballroom Five'],['1TxfZgmlWImcpYwIP8F157'],1923,0.496,0.311,5,-11.202,1,0.124,0.923,0.0127,0.252,0.718,191.035,4
+3GuVFPnSVW036wmwUrXQ9Q,Changeable Daddy Of Mine,6,161560,0,['Margaret Johnson'],['0M4frxvpsMfTnxQLxgMUQ0'],1923,0.583,0.214,10,-13.687,1,0.0423,0.994,3.3E-05,0.446,0.647,101.916,4
+3MUeRkKpLxxyRFzqMTj1HY,"Chinatown, My Chinatown",5,193667,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.562,0.525,3,-8.992,1,0.142,0.945,0.0949,0.129,0.794,158.373,4
+3pcaFPeiPvuLD46XTuVNiF,Symphonic Raps,5,191400,0,"[""Carroll Dickerson's Savoyagers""]",['5erkc9lY3oRsWXctqjvqrC'],1923,0.78,0.368,5,-13.855,1,0.0958,0.98,0.907,0.0798,0.957,115.401,4
+3tlygdsn8Jl6D0XA7RRslx,Sweethearts On Parade,6,197000,0,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],['0ceJesJTMQFYalVhYf4aed'],1923,0.606,0.261,10,-13.995,1,0.0679,0.968,0.124,0.12,0.657,128.025,4
+3yJC2QZqAm1i2wSob2Cpyv,Alone At Last,5,191173,0,['The Southern Serenaders'],['6aBqqbACwuEo7wFkex4zA1'],1923,0.66,0.184,10,-13.993,1,0.0322,0.996,0.941,0.305,0.43,107.328,4
+43WZyNbzOJOnKQStu8if8E,St. Louis Blues - Alternate Take B,5,176333,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.68,0.47,11,-8.644,0,0.11,0.912,0.907,0.0819,0.946,181.038,4
+46ddI0x8tLiOjDFqb2TQ5R,Papa De Da Da,7,178827,0,"[""Clarence Williams' Blue Five""]",['6RuQvIr0t0otZHnAxXTGkm'],1923,0.673,0.132,10,-15.685,1,0.0771,0.995,0.108,0.26,0.587,105.5,4
+4Bk8r390pyafdSPtWoUKwz,I Must Have That Man,5,191307,0,['Lillie Delk Christian'],['70dErSfvbf7mmBdroUIyvf'],1923,0.851,0.221,8,-12.89,0,0.0932,0.953,7.36E-06,0.0692,0.651,116.444,4
+4E0HHRQlEdBFhsQHrKWXRR,When You're Smiling - Non Vocal Take,6,169733,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.5,0.193,10,-10.373,1,0.0347,0.984,0.744,0.227,0.624,147.29,4
+4Ewzp7BFfvcXofZnvrYwFx,I Can't Give You Anything But Love,5,213000,0,['Louis Armstrong & His Savoy Ballroom Five'],['1TxfZgmlWImcpYwIP8F157'],1923,0.66,0.118,7,-13.172,1,0.0648,0.951,0.452,0.0841,0.577,108.305,4
+4PD69KQwh9GccLW2647tTL,Gully Low Blues,6,194293,0,['Louis Armstrong & His Hot Seven'],['267SHEPfqnF16IEmwbLhLQ'],1923,0.679,0.144,3,-14.081,1,0.0975,0.933,0.168,0.0915,0.82,108.832,4
+4m1Th0JSQkevDsHiOpoxlQ,Basin Street Blues - rec. 1928,6,197067,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.561,0.353,10,-9.617,1,0.0538,0.971,0.13,0.922,0.514,107.711,4
+4qTkOBmwGFamB3V9QEFwDS,When Your Lover Has Gone,5,184533,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.454,0.233,7,-11.394,0,0.0433,0.968,0.0333,0.218,0.496,119.956,4
+4t1G1nGmPOms95TB9wz8FF,Naughty Man,7,179360,0,['Fletcher Henderson & His Orchestra'],['3ZeU30PhqVBalNYg2SFNZN'],1923,0.59,0.268,3,-14.313,1,0.0725,0.995,0.252,0.646,0.848,189.266,4
+4ubnmGMXNLgQpj5YKoldMm,Sugar Foot Stomp,7,169267,0,['Fletcher Henderson & His Orchestra'],['3ZeU30PhqVBalNYg2SFNZN'],1923,0.78,0.207,10,-14.127,1,0.0771,0.983,0.0291,0.101,0.879,100.376,4
+4yZ7B7yoMjDMH4oInYA36l,Mahogany Hall Stomp,7,194227,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.642,0.274,3,-9.874,1,0.101,0.83,0.898,0.0398,0.767,184.923,4
+5CwOaZmAAsFfbQ5qCKS6sn,I'm Confessin' (That I Love You),7,201200,0,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],['0ceJesJTMQFYalVhYf4aed'],1923,0.479,0.14,3,-14.753,1,0.0725,0.988,0.65,0.153,0.415,81.674,4
+5EFXgEnibXPumWosZtJqkx,I Can't Believe That You're In Love With Me,6,183800,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.579,0.204,0,-12.634,1,0.0804,0.928,0.00459,0.0901,0.75,154.333,4
+5EMxMmB4iSzA8jMNgLcTtO,Song Of The Vipers,5,171533,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.553,0.255,10,-8.575,1,0.0874,0.975,0.804,0.531,0.638,181.769,4
+5SM5voPROPhpgLuqRpGnNp,Good Time Flat Blues,6,192200,0,['Maggie Jones'],['7EwPtp3HM2j3uiexxubIU8'],1923,0.551,0.196,0,-14.692,1,0.0594,0.995,0.00325,0.384,0.534,76.598,4
+5WfYFtwzOo8Ne7DA1qhtWl,Cake Walking Babies (From Home),6,175573,0,"[""Clarence Williams' Blue Five""]",['6RuQvIr0t0otZHnAxXTGkm'],1923,0.634,0.435,7,-12.422,0,0.0474,0.995,0.881,0.204,0.84,121.516,4
+5c6hPSOnuiLnTve5b9s7ZS,Potato Head Blues,7,175227,0,['Louis Armstrong & His Hot Seven'],['267SHEPfqnF16IEmwbLhLQ'],1923,0.587,0.29,5,-10.463,1,0.177,0.936,0.254,0.115,0.929,183.352,4
+5eXOIVUkW17FqnEoLR2wTX,Stardust,5,213667,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.614,0.298,3,-11.004,0,0.0541,0.97,0.646,0.0514,0.772,122.319,4
+5pIiw01BoIPnkQQI1AZHQL,T.N.T.,7,171373,0,['Fletcher Henderson & His Orchestra'],['3ZeU30PhqVBalNYg2SFNZN'],1923,0.809,0.408,1,-12.035,1,0.0846,0.942,0.0398,0.307,0.89,113.494,4
+5rgmvqVTH38BKIhzEHanMq,Low Land Blues,5,172973,0,"['Bertha ""Chippie"" Hill']",['1sPDyROEgOvKQlReOg874E'],1923,0.492,0.115,9,-15.788,1,0.0898,0.98,0.0,0.037,0.465,172.971,4
+6JLKiy1LMbmYY8JOM38UR9,Cornet Chop Suey,5,194267,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.558,0.19,3,-14.621,1,0.0869,0.995,0.572,0.113,0.692,170.066,4
+6TBNeFMHsIarzHz8cz74KA,Too Busy,5,173173,0,['Lillie Delk Christian'],['70dErSfvbf7mmBdroUIyvf'],1923,0.603,0.286,7,-13.73,1,0.0806,0.99,0.000713,0.0682,0.882,176.566,4
+6azxqS9u7eO5DslqJCWMNd,Knockin' A Jug - 78 rpm Version,6,193760,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.788,0.395,10,-14.032,1,0.301,0.882,0.844,0.124,0.676,113.336,4
+7H5X09Fl9MN0FhICH4TSF6,Listen To Ma,5,198467,0,"['Hociel Thomas', 'Louis Armstrong']","['0bygS9pra5BkFbVaKwHVqw', '19eLuQmk9aCobbVDHc6eek']",1923,0.536,0.128,2,-13.093,1,0.0435,0.988,0.0,0.314,0.564,91.937,4
+00osj4z3S7XekDAuQVChIu,Chapter 1.10 - Król Maciuś Pierwszy,0,128900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.698,0.29,1,-19.408,0,0.954,0.819,0.0,0.326,0.801,72.893,4
+01BTcfGn8BF6ezah92vKyz,Chapter 10.4 - Król Maciuś Pierwszy,0,126600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.61,0.214,1,-19.986,1,0.958,0.767,0.0,0.16,0.771,187.388,3
+01lXmkENsxJJzkco2mcVTi,Chapter 5.15 - Król Maciuś na wyspie bezludnej,0,128800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.662,0.161,1,-22.15,1,0.944,0.66,1.07E-06,0.118,0.655,94.664,4
+02J9nBVAnBTQkBObYuMoVH,Chapter 5.21 & Chapter 6.1 - Król Maciuś na wyspie bezludnej,0,147400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.719,0.238,8,-18.401,1,0.929,0.668,0.0,0.135,0.621,118.615,4
+03g4RX0WDEnJ9KDs5aa73z,Chapter 7.20 & Chapter 8.1 - Król Maciuś Pierwszy,0,140900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.613,0.238,6,-20.405,1,0.956,0.835,0.0,0.362,0.785,64.971,4
+04jqhYBmxWLKlZ9ggYxOah,Chapter 9.11 - Król Maciuś Pierwszy,0,152000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.229,1,-19.384,1,0.937,0.724,0.0,0.15,0.683,126.104,1
+07rwzJ4beSPUpljKx9jpn6,Chapter 2.13 - Król Maciuś na wyspie bezludnej,0,148300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.675,0.293,5,-17.57,1,0.948,0.9,0.0,0.262,0.742,146.67,3
+08ie5iqXXqWU0x1FVb2bAy,Chapter 1.6 - Król Maciuś na wyspie bezludnej,0,133600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.699,0.245,1,-20.119,1,0.946,0.702,0.0,0.152,0.723,90.397,4
+0Ai126YgdNANSa8etSr2r1,Chapter 2.21 & Chapter 3.1 - Król Maciuś Pierwszy,0,132200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.691,0.18,1,-20.988,1,0.95,0.649,0.0,0.168,0.67,49.688,4
+0CvmUvqBk83K7aD1FitfXn,Sol Mio - Remasterizado,0,172187,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.501,0.39,2,-14.475,1,0.05,0.995,0.963,0.173,0.807,83.162,4
+0DwsyNFrOKmKZobZ2q5gHv,Chapter 1.13 - Król Maciuś Pierwszy,0,141300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.751,0.257,5,-18.824,0,0.931,0.742,0.0,0.375,0.803,109.527,5
+0FKXiIKpbpwYC25lZPCidt,Chapter 5.4 - Król Maciuś Pierwszy,0,136200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.641,0.236,1,-18.421,1,0.957,0.828,0.0,0.409,0.637,86.508,3
+0FYPNQ4pPdPxyurQiYOp7W,Chapter 3.12 - Król Maciuś Pierwszy,0,131100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.718,0.209,1,-20.262,1,0.919,0.691,0.0,0.238,0.677,112.027,4
+0FYbI0Aet1rIc2Wyzu5Kfb,Chapter 2.6 - Król Maciuś na wyspie bezludnej,0,132000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.73,0.277,1,-18.177,1,0.954,0.735,0.0,0.204,0.626,78.644,4
+0GBMsGrBHw8rifEpXZabKx,Le Moment De M'en Aller,0,139707,0,['Dranem'],['4CS6boY7NQGD74SkUvlqp4'],1923,0.653,0.319,7,-13.706,1,0.0519,0.988,0.0,0.266,0.686,102.225,4
+0GkpS6KjxFsNt61hOpB2j9,La Payasa - Remasterizado,0,152947,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.47,0.28,11,-19.32,1,0.129,0.992,0.926,0.107,0.597,130.445,4
+0IZWellIz78J9J2ef3djZ7,Chapter 5.19 - Król Maciuś Pierwszy,0,127000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.72,0.261,10,-18.65,0,0.947,0.794,0.0,0.133,0.767,121.381,3
+0JTkhdnSpIupvyzRctzhPZ,Chapter 5.19 - Król Maciuś na wyspie bezludnej,0,141100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.667,0.244,5,-18.571,1,0.954,0.451,0.0,0.135,0.527,79.279,4
+0Jz6ef3RtrtJVsDF0gx3Xl,Chapter 5.15 - Król Maciuś Pierwszy,0,130200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.705,0.268,2,-19.633,1,0.945,0.729,0.0,0.139,0.826,81.718,4
+0KXO1gJQlaOamDZABOqk1t,Chapter 8.9 - Król Maciuś Pierwszy,0,150200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.687,0.167,1,-21.535,1,0.944,0.812,0.0,0.211,0.665,136.426,3
+0LT4at4Sxly6ehB7tRkLtT,Chapter 10.2 - Król Maciuś Pierwszy,0,129500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.186,1,-22.006,1,0.927,0.74,0.0,0.207,0.73,124.124,5
+0LX5xrQbNs2yCFKKwKHXUQ,Chapter 4.13 - Król Maciuś na wyspie bezludnej,0,138900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.636,0.215,1,-19.187,1,0.946,0.733,0.0,0.213,0.542,84.877,4
+0Ms9iZZBTjHXVB8IqbKkds,Chapter 5.14 - Król Maciuś Pierwszy,0,137200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.71,0.278,1,-18.837,1,0.945,0.831,0.0,0.155,0.68,110.19,4
+0NPmKi0NIGvQg1GC0oLf4P,Chapter 3.17 - Król Maciuś Pierwszy,0,144000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.706,0.211,5,-21.041,0,0.943,0.848,0.0,0.148,0.722,107.857,3
+0ODKriM44PpgWBpojhUzrM,Chapter 9.16 - Król Maciuś Pierwszy,0,131900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.737,0.253,1,-19.73,1,0.938,0.827,0.0,0.162,0.828,96.814,3
+0QfWOoNZibrxHpzdKWEHBZ,When It's Sleepy Time Down South,4,200200,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.527,0.178,3,-14.814,1,0.0793,0.989,9.85E-06,0.104,0.37,105.093,4
+0Rk3mOSqpu2pr2abc4wfRw,Chapter 6.18 - Król Maciuś Pierwszy,0,168400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.629,0.246,1,-19.847,0,0.957,0.791,0.0,0.217,0.675,171.146,4
+0SAlJrwVKPXHFA0BASq88o,Chapter 4.20 & Chapter 5.1 - Król Maciuś na wyspie bezludnej,0,139400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.708,0.179,1,-21.571,1,0.941,0.735,0.0,0.214,0.681,128.508,3
+0SSvpErgx97kJ17MEHiPpp,Chapter 1.11 - Król Maciuś Pierwszy,0,129400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.675,0.262,1,-19.376,1,0.951,0.779,0.0,0.208,0.816,85.357,4
+0UBt1BLhBKHJKBxomaTBmD,Chapter 7.13 - Król Maciuś Pierwszy,0,130500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.712,0.27,1,-19.509,1,0.942,0.822,0.0,0.192,0.762,127.44,3
+0UnNaqhXoMihdyKyFHCcPh,Chapter 3.20 & Chapter 4.1 - Król Maciuś Pierwszy,0,134300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.691,0.243,1,-19.706,1,0.95,0.733,0.0,0.27,0.64,102.029,3
+0WBUzUenwyBGqeenzqhEG0,Chapter 1.18 - Król Maciuś Pierwszy,0,136500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.757,0.27,1,-19.441,1,0.939,0.795,0.0,0.132,0.819,103.76,4
+0Wi1XhlXoxuZHVhulDK4La,Chapter 6.20 & Chapter 7.1 - Król Maciuś Pierwszy,0,134200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.624,0.25,5,-21.041,0,0.952,0.767,0.0,0.361,0.602,81.702,1
+0Y9Sd7SkWFrmMvxJXagqo8,Chapter 2.12 - Król Maciuś Pierwszy,0,133400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.734,0.273,5,-16.869,0,0.955,0.766,0.0,0.126,0.791,91.951,4
+0YIo0uq3o867nFkE9I9hf2,Pleadin' for the Blues,4,178707,0,"['Bertha ""Chippie"" Hill', 'Louis Armstrong']","['1sPDyROEgOvKQlReOg874E', '19eLuQmk9aCobbVDHc6eek']",1923,0.661,0.134,2,-12.61,1,0.0763,0.996,0.0011,0.119,0.575,71.497,4
+0YSsZU8Ho1rfH6mhj1plVb,Chapter 2.19 - Król Maciuś na wyspie bezludnej,0,132900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.699,0.261,5,-18.666,0,0.956,0.919,0.0,0.152,0.689,54.428,4
+0ZLFySfiageV9HiIi5gta0,Chapter 5.13 - Król Maciuś Pierwszy,0,142400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.63,0.262,1,-18.944,1,0.959,0.788,0.0,0.236,0.787,167.846,5
+0ZRoSs5icoW5QJvZq0Y73w,Demasiado tarde - en vivo,0,185063,0,['Yiyo y Los Chicos 10'],['6JXytsNesnjzxv4tHWbe9I'],1923,0.583,0.715,11,-2.41,0,0.0287,0.839,0.0,0.363,0.772,104.346,4
+0bKuq3fIaF2ut82ip9DQLP,Chapter 7.17 - Król Maciuś Pierwszy,0,131400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.205,10,-19.485,0,0.937,0.747,0.0,0.387,0.697,110.768,5
+0bu5dGUeiK4QwwcC50yWQU,Chapter 7.12 - Król Maciuś Pierwszy,0,139000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.703,0.168,5,-21.155,0,0.958,0.718,0.0,0.319,0.699,83.097,3
+0epiP90h88hjRHGk9RIins,Chapter 4.3 - Król Maciuś na wyspie bezludnej,0,144300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.637,0.275,1,-19.782,1,0.962,0.735,0.0,0.158,0.603,163.142,3
+0exN2h6nGOlAGbuMKszNnn,Chapter 3.12 - Król Maciuś na wyspie bezludnej,0,153800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.696,0.283,1,-18.499,1,0.951,0.862,0.0,0.181,0.695,137.399,4
+0fdCpczLwvzvAyzCGGOZtX,Entre Criollos - Remasterizado,0,174387,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.414,0.248,6,-21.685,1,0.0905,0.992,0.884,0.172,0.532,74.088,5
+0fuLzjcUhMW9s6NBsDb22L,Tight Like This,4,197627,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.726,0.254,1,-10.298,0,0.124,0.982,0.33,0.0398,0.456,110.86,4
+0glAn7LZn0Kt6dpsXs57YL,Chapter 3.6 - Król Maciuś Pierwszy,0,146700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.619,0.239,1,-19.649,1,0.956,0.724,0.0,0.285,0.667,73.748,3
+0kT5g4vipDRoyTiYCm7xFE,Chapter 2.19 - Król Maciuś Pierwszy,0,135300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.72,0.195,5,-19.221,0,0.914,0.768,0.0,0.154,0.804,121.394,5
+0m0RpNz2xfcMSf9dqs7K12,Chapter 2.9 - Król Maciuś na wyspie bezludnej,0,133900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.717,0.236,1,-18.513,1,0.959,0.737,0.0,0.297,0.68,78.378,3
+0o570uhbq2qmtk89zmdApx,Chapter 9.7 - Król Maciuś Pierwszy,0,126600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.701,0.277,1,-18.096,1,0.956,0.771,0.0,0.142,0.52,90.992,3
+0oOQqvKFDd1lSCCgncRreZ,Chapter 5.2 - Król Maciuś Pierwszy,0,140000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.688,0.234,4,-20.11,1,0.961,0.78,0.0,0.21,0.7,76.954,4
+0oqDrehB6TLZNZk7J4sTKA,To Be In Love,4,186467,0,['Seger Ellis'],['1EQqiD2tkdi1I8ma1cRTu2'],1923,0.564,0.203,4,-11.501,1,0.0743,0.992,5.45E-06,0.457,0.814,160.767,4
+0pfb51HxNzI3bNVjKasaKK,Vencida - Remasterizado,0,120093,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.572,0.0909,11,-24.536,1,0.139,0.996,0.908,0.246,0.57,131.55,4
+0rdxKD0OyIW341nH9tiS1s,Chapter 9.14 - Król Maciuś Pierwszy,0,141400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.716,0.249,5,-18.742,0,0.936,0.882,0.0,0.204,0.75,127.072,1
+0s7iHksDgHUDzLhkGoqgmb,Chapter 6.5 - Król Maciuś Pierwszy,0,148200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.651,0.242,1,-20.317,1,0.954,0.798,0.0,0.226,0.804,75.269,4
+0t2ZuxdvuQeAjpyV0NVkHg,Chapter 11.6 - Król Maciuś Pierwszy,0,132700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.633,0.243,5,-18.423,0,0.958,0.894,0.0,0.185,0.71,85.432,5
+0tfBbHVCxusHAr7AZE5BiN,Chapter 5.20 - Król Maciuś Pierwszy,0,128900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.645,0.225,1,-21.065,1,0.949,0.813,0.0,0.152,0.807,47.193,3
+0tlIxalMu5riycAygdPi67,Chapter 1.4 - Król Maciuś Pierwszy,0,125700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.709,0.252,1,-18.895,1,0.939,0.708,0.0,0.222,0.661,130.281,1
+0tnNdIjSw8yTZqEOWOPygl,Chapter 8.5 - Król Maciuś na wyspie bezludnej,0,127200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.677,0.251,1,-18.551,1,0.96,0.707,0.0,0.18,0.633,81.54,4
+0v8GUuI5YaFIg7U2Nxkgv0,What'll I Do,0,144300,0,['Marie Earth Heart'],['5lrfVtLwGtd055aUIJUgT5'],1923,0.269,0.249,7,-14.86,0,0.0735,0.968,0.00114,0.269,0.143,61.832,4
+0vOQzUEthlMh7lVgpYqDX8,Chapter 1.10 - Król Maciuś na wyspie bezludnej,0,128400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.7,0.293,8,-19.05,1,0.928,0.843,0.0,0.18,0.799,106.021,3
+0wNiz7sRtFdsNyH0JDLzpZ,Chapter 7.6 - Król Maciuś na wyspie bezludnej,0,135400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.718,0.231,1,-17.897,1,0.961,0.894,0.0,0.138,0.592,70.236,4
+0y8AIqjVXEgFYE6cwcGJZA,Chapter 4.9 - Król Maciuś na wyspie bezludnej,0,132700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.706,0.206,1,-19.711,1,0.939,0.633,0.0,0.243,0.563,103.602,5
+0zxEXQGoj894oUI5eNU5Iz,Chapter 7.9 - Król Maciuś Pierwszy,0,132500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.719,0.243,1,-19.387,1,0.936,0.889,0.0,0.174,0.826,125.721,3
+10GwhMjT2Id4tYFlWvy0We,Chapter 6.6 - Król Maciuś na wyspie bezludnej,0,151200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.686,0.232,1,-19.304,1,0.949,0.781,0.0,0.159,0.643,100.484,4
+10qdz1AgvZt7ZKWi58Wutx,"Quiereme,Que ganas me dieron - en vivo",2,416984,0,['Yiyo y Los Chicos 10'],['6JXytsNesnjzxv4tHWbe9I'],1923,0.576,0.672,11,-8.367,1,0.0498,0.485,0.0,0.45,0.824,105.498,4
+15cSROWO3jSMwaJeOZTJVM,Chapter 7.17 & Chapter 8.1 - Król Maciuś na wyspie bezludnej,0,143692,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.704,0.16,1,-19.167,1,0.937,0.763,0.0,0.37,0.663,106.817,4
+16yeYoHRv1lO9khNgqg7O8,Chapter 6.10 - Król Maciuś na wyspie bezludnej,0,135900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.698,0.21,5,-20.894,1,0.951,0.771,0.0,0.158,0.653,104.778,3
+18Mz0fPKHzyrxjQVCA0X2i,Chapter 1.12 - Król Maciuś Pierwszy,0,150800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.264,1,-19.752,1,0.94,0.742,0.0,0.224,0.767,121.724,4
+1AoueZtJ0wwjSDU4npTDnA,Chapter 3.18 - Król Maciuś Pierwszy,0,165500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.64,0.224,6,-17.162,1,0.943,0.855,0.0,0.206,0.717,84.9,4
+1B9DQSfiDWhYZmkqbYyonp,C'est Au Bal Musette,0,160907,0,['Gaby Montbreuse'],['1DgyeM38erNK7yB3Tpovwm'],1923,0.435,0.353,2,-14.907,1,0.0992,0.992,0.0,0.303,0.767,77.699,3
+1BcOVMn3ZHrqEQle8TULdM,Chapter 9.13 - Król Maciuś Pierwszy,0,129100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.778,0.266,1,-19.104,1,0.95,0.776,0.0,0.34,0.779,59.461,3
+1C24gb2rQwSd262BP09DNB,Chanson De Route De Ciboulette,0,141040,0,['Edmée Favart'],['2QW0xmAuyzCQEBkSkytvGG'],1923,0.783,0.341,2,-14.903,1,0.873,0.991,0.0,0.589,0.803,121.287,4
+1CGbuEQ7kBcYxtNy4h1u5f,Chapter 2.17 - Król Maciuś Pierwszy,0,135200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.62,0.291,1,-18.068,1,0.955,0.749,0.0,0.251,0.75,180.557,3
+1D7D3FLwQ4rCvDWbBtVQho,Chapter 2.7 - Król Maciuś na wyspie bezludnej,0,142500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.666,0.294,5,-19.078,0,0.96,0.735,0.0,0.177,0.628,83.194,4
+1De0ODc2bv1ARYoa5E6c51,Chapter 1.11 - Król Maciuś na wyspie bezludnej,0,127300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.762,0.19,1,-21.113,1,0.938,0.651,0.0,0.114,0.762,91.368,5
+1GUAkBHHxTxnwMo4Or0TfG,Chapter 4.11 - Król Maciuś Pierwszy,0,139300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.701,0.25,1,-19.262,1,0.953,0.778,0.0,0.19,0.742,78.864,4
+1HfsGFkj5HdvEUyiWAr5Bv,Ma Gosse,0,204400,0,['Georgius'],['0Yly6PvJghpLD3Lj8Kvpcj'],1923,0.635,0.285,1,-16.475,1,0.217,0.98,0.0,0.446,0.759,123.849,4
+1IM5GNo7ctGQ6cfHS8C6XE,Pala Oyunu,0,175541,0,['Hafız Ahmet Celâl Tokses'],['57E84vHYeaC12Z1Eh4JUfG'],1923-12-18,0.234,0.401,4,-15.225,0,0.04,0.989,0.993,0.393,0.823,77.395,4
+1IdZJF3Cs0eZiXsWU4Mkdf,Chapter 8.4 - Król Maciuś na wyspie bezludnej,0,125700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.646,0.272,1,-19.181,1,0.953,0.558,0.0,0.118,0.593,79.411,4
+1JcF6uVs9KWxNNYF2WHlMl,Chapter 8.8 - Król Maciuś Pierwszy,0,131900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.679,0.223,4,-20.45,0,0.956,0.902,0.0,0.157,0.781,84.501,3
+1NfUr9ZwIeClKfacPPvmDT,Chapter 3.15 - Król Maciuś na wyspie bezludnej,0,125900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.698,0.226,1,-19.091,1,0.94,0.762,0.0,0.133,0.707,102.727,3
+1Q4bwR6QlKFunLxFL70dS2,Chapter 8.17 - Król Maciuś na wyspie bezludnej,0,153400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.703,0.262,9,-19.407,1,0.942,0.571,0.0,0.285,0.604,90.978,4
+1RPKtGdObPEGK6LJ7QPzqE,Chapter 2.11 - Król Maciuś na wyspie bezludnej,0,132700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.251,1,-18.296,1,0.952,0.756,0.0,0.204,0.684,100.977,5
+1SRuQGGUL4RIx6ab7Jre5N,Chapter 2.8 - Król Maciuś na wyspie bezludnej,0,137200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.676,0.244,1,-18.96,1,0.953,0.642,0.0,0.218,0.669,98.514,3
+1Sz6kY4GhWjuNVHQvyGIh4,Chapter 5.16 - Król Maciuś Pierwszy,0,127600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.624,0.222,1,-21.088,1,0.965,0.622,0.0,0.208,0.656,172.676,1
+1TArKGbFOizRZwAU4zlZmY,Chapter 8.3 - Król Maciuś na wyspie bezludnej,0,128000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.711,0.316,1,-17.137,1,0.958,0.7,0.0,0.119,0.669,72.234,1
+1TNFBmTKmGk2FD5GOv3aLw,Chapter 6.7 - Król Maciuś Pierwszy,0,137600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.281,5,-18.696,0,0.935,0.82,0.0,0.166,0.901,128.527,4
+1VtCBfQf6KdQfmBgpRUUdY,Fakir - Remasterizado,0,166587,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.424,0.283,6,-15.551,1,0.0509,0.989,0.968,0.289,0.444,138.19,3
+1W4guYCGp29HDPNCHPySRf,Chapter 4.14 - Król Maciuś na wyspie bezludnej,0,139700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.658,0.179,1,-20.739,1,0.959,0.839,0.0,0.228,0.586,75.228,3
+1WtaKy5GdBW179YRAL87hD,Chapter 7.12 - Król Maciuś na wyspie bezludnej,0,145500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.729,0.156,1,-21.394,1,0.94,0.709,0.0,0.236,0.57,98.634,4
+1Y80dR6Q3SLCfw15u7Ch7e,Chapter 2.7 - Król Maciuś Pierwszy,0,129000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.798,0.229,1,-19.317,1,0.945,0.727,0.0,0.131,0.74,51.448,4
+1YjHwSX3Y7X8586eaXM1Kk,Tu Voudrais Me Voir Pleurer,0,184427,0,['Robert Jysor'],['491s7aNxBMoI7BOkwFwgbl'],1923,0.496,0.32,0,-12.255,1,0.0847,0.995,0.0,0.272,0.621,108.512,4
+1Ylr4v9oMsxRoLRkQJKRhM,Chapter 8.16 - Król Maciuś Pierwszy,0,131100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.663,0.239,1,-18.874,1,0.955,0.886,0.0,0.177,0.756,78.77,4
+1ZTX01NOGwP5IZ59A2Lmfi,Chapter 8.18 - Król Maciuś Pierwszy,0,126400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.693,0.258,1,-19.142,1,0.957,0.902,0.0,0.289,0.774,82.611,3
+1aN3D9FqE9P7slzb60Eqwj,Hicran,1,204173,0,['Safiye Ayla'],['0xsueYxjFxn3v5VAR9YkT9'],1923-01-04,0.227,0.423,6,-8.111,1,0.095,0.994,0.787,0.439,0.182,81.239,3
+1cx37MwPibFAOavpfNnlce,En la Cruz,0,141558,0,['Pablo Pastor'],['22LX0GIeZSiIMBpOJB29TG'],1923-03-01,0.573,0.31,4,-11.249,1,0.0258,0.872,0.00102,0.101,0.483,129.897,4
+1djdTuM7cMfBjMHvoev1cx,Chapter 6.8 - Król Maciuś na wyspie bezludnej,0,132700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.239,5,-18.101,1,0.94,0.807,0.0,0.258,0.578,109.836,5
+1dzaUcTS5k6sVTmhdQKjij,Chapter 10.16 - Król Maciuś Pierwszy,0,166800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.698,0.256,1,-17.449,1,0.953,0.774,0.0,0.167,0.769,88.267,4
+1e7zxvah6cU9yk7heqNMA7,Chapter 8.12 - Król Maciuś Pierwszy,0,133100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.68,0.202,1,-21.338,1,0.946,0.868,0.0,0.216,0.596,98.486,4
+1eLbwzyHyUne68R2yXPidS,Le Tapis Vert,0,183133,0,['Adolphe Bérard'],['4avV2NAdyMOjy4qqYfKNR7'],1923,0.38,0.235,4,-15.971,1,0.053,0.99,0.0,0.457,0.556,82.783,3
+1edbuMXvCWHgW78HUugrK8,Chapter 4.21 & Chapter 5.1 - Król Maciuś Pierwszy,0,133700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.707,0.182,1,-20.062,1,0.959,0.748,0.0,0.191,0.613,101.968,3
+1hviILXEn7vTSzU10nsWRM,Chapter 1.17 - Król Maciuś Pierwszy,0,137100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.611,0.207,8,-20.194,1,0.955,0.658,0.0,0.152,0.803,67.442,5
+1iaThalbw5LINCP5AJXBTK,Chapter 4.19 - Król Maciuś na wyspie bezludnej,0,144100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.646,0.193,11,-21.334,0,0.957,0.729,0.0,0.117,0.614,82.899,3
+1kbPo2tqulbrU6yZfsDSac,Chapter 11.8 - Król Maciuś Pierwszy,0,138700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.693,0.245,5,-18.483,0,0.945,0.888,0.0,0.254,0.645,98.139,3
+1lJSfCp3rMSiSwE0OnWIQz,Chapter 7.5 - Król Maciuś Pierwszy,0,134300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.714,0.227,1,-18.663,1,0.955,0.782,0.0,0.149,0.813,64.308,3
+1lxRFRONmnUxRz5YhQAAwX,Pek Muztaribim,0,167680,0,['Hafız Ahmet Celâl Tokses'],['57E84vHYeaC12Z1Eh4JUfG'],1923-12-18,0.26,0.333,4,-17.084,1,0.0896,0.995,0.917,0.51,0.19,78.08,1
+1mLlyiUYSsOiRp0m766T0F,Chapter 6.11 - Król Maciuś na wyspie bezludnej,0,141000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.669,0.219,6,-20.629,1,0.955,0.795,0.0,0.355,0.667,83.399,4
+1nHsef13ntQzemvGfyRkIP,Chapter 2.9 - Król Maciuś Pierwszy,0,131700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.706,0.22,0,-19.18,1,0.943,0.808,0.0,0.301,0.65,132.915,3
+1nsqiWT2tkBgrM9r3yxCHE,Chapter 1.15 - Król Maciuś na wyspie bezludnej,0,162400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.609,0.265,1,-18.76,1,0.955,0.835,0.0,0.238,0.746,69.04,4
+1pfN0mDem9bZBYeIwVN7cD,Chapter 3.3 - Król Maciuś na wyspie bezludnej,0,179100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.729,0.293,1,-19.041,1,0.952,0.826,0.0,0.162,0.565,73.734,4
+1skk8BfvNGrVM8HBPypg3V,Chapter 5.3 - Król Maciuś na wyspie bezludnej,0,144400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.675,0.267,1,-19.645,1,0.953,0.693,0.0,0.233,0.715,97.457,5
+1u9zTLc3iWTud0cZM83CDr,Cuando Buda Sonríe - Remasterizado,0,170800,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.377,0.335,1,-16.295,1,0.0426,0.992,0.961,0.173,0.618,79.422,4
+1uEXx4sLcQB04RNzvKKh5G,Chapter 5.12 - Król Maciuś Pierwszy,0,125400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.711,0.181,1,-20.705,0,0.944,0.743,0.0,0.4,0.712,111.646,5
+1uelg93BiJKU4SerLhXPU9,Chapter 10.14 - Król Maciuś Pierwszy,0,142700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.652,0.235,2,-19.935,1,0.955,0.797,0.0,0.115,0.568,90.389,4
+1unpFthiuixJx6sSW3OHAC,Chapter 3.10 - Król Maciuś na wyspie bezludnej,0,140000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.742,0.204,1,-20.315,1,0.951,0.844,0.0,0.131,0.733,80.338,1
+1wfVslnOJQdNR7jtleZVGn,Chapter 2.16 - Król Maciuś na wyspie bezludnej,0,194000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.721,0.257,9,-17.995,1,0.941,0.899,0.0,0.354,0.761,117.178,3
+1xXapXBSUSxWBkqWtvviHt,Chapter 2.17 - Król Maciuś na wyspie bezludnej,0,134800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.777,0.179,5,-19.41,0,0.952,0.762,0.0,0.227,0.618,38.928,4
+1xYkJjXx83VuTcaVILz3ho,Chapter 1.18 - Król Maciuś na wyspie bezludnej,0,144600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.785,0.265,9,-19.044,1,0.935,0.73,0.0,0.263,0.737,103.203,3
+1xci8Zmd0JnJD5g2WwXpNx,Electric Girl - Remasterizado,0,174667,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.563,0.426,11,-13.831,0,0.148,0.994,0.96,0.209,0.733,80.204,4
+1yMDC3pVzxKlcKwwwiFSmt,Sacate la Caretita - Remasterizado,0,178147,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.574,0.0119,5,-28.427,0,0.102,0.996,0.936,0.099,0.66,125.425,4
+203MYDy2P9nrTO3515B96D,Chapter 3.4 - Król Maciuś na wyspie bezludnej,0,145100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.696,0.296,1,-19.359,1,0.957,0.648,0.0,0.431,0.603,134.45,4
+214S1bDYDp34WOhqOGGnum,Chapter 8.14 - Król Maciuś Pierwszy,0,125700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.707,0.197,1,-21.257,1,0.953,0.87,0.0,0.164,0.737,109.218,3
+21QQ5ZuQUjPQQRi1JzR8GY,Veranito de San Juan - Remasterizado,0,180387,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.515,0.272,4,-15.873,0,0.108,0.994,0.97,0.15,0.89,130.063,4
+232KmyoWlX8B01eVPGw47e,Chapter 6.15 - Król Maciuś na wyspie bezludnej,0,126600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.173,1,-20.524,0,0.95,0.903,0.0,0.187,0.787,83.603,3
+238xfFBXsH2IV0dsHttZpy,Chapter 8.15 - Król Maciuś Pierwszy,0,129000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.718,0.164,1,-21.667,0,0.933,0.873,0.0,0.17,0.694,116.496,3
+23OK5hKz4EvcxSyPvAaLAp,Chapter 2.5 - Król Maciuś Pierwszy,0,127900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.676,0.264,6,-20.8,0,0.946,0.815,0.0,0.189,0.763,83.298,4
+240CtrmmZTh22BoDphHXV9,Chapter 1.8 - Król Maciuś Pierwszy,0,134300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.649,0.242,1,-20.009,1,0.955,0.729,0.0,0.149,0.716,81.287,4
+257hVxQ0y8XXJtGJtiDBPu,Chapter 3.3 - Król Maciuś Pierwszy,0,141300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.629,0.239,1,-19.637,1,0.957,0.763,0.0,0.221,0.67,170.24,3
+25SMQZnHTtKcUxFIpG7Mhp,The Loveliest Night of the Year,0,162064,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.433,0.422,10,-12.455,1,0.0418,0.815,9.67E-06,0.114,0.453,160.021,4
+2626aAS6eQgc6CvdLVnoOw,La Danza de las Libélulas - Remasterizado,0,156587,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.397,0.229,6,-15.284,0,0.0365,0.996,0.837,0.379,0.424,80.086,4
+26ca2K4703vB1CoCtjzSLW,Chapter 7.14 - Król Maciuś Pierwszy,0,136900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.63,0.257,1,-20.529,1,0.962,0.818,0.0,0.321,0.783,166.246,1
+282GBb96Uc1l3nvDZU14Wr,La Garconniere - Remasterizado,0,150640,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.493,0.109,2,-23.485,0,0.423,0.996,0.822,0.4,0.599,120.344,4
+28jWC2LAY4vqsUDxGctDs9,Chapter 8.17 - Król Maciuś Pierwszy,0,129000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.621,0.15,8,-20.384,1,0.945,0.883,0.0,0.202,0.682,176.575,3
+2BzP6Lj4EA6V3AmSPDlCmD,Chapter 5.20 - Król Maciuś na wyspie bezludnej,0,134200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.708,0.25,1,-17.783,1,0.941,0.662,0.0,0.123,0.68,107.873,3
+2CALgoRXs5TedfP7UxCVxC,Chapter 6.4 - Król Maciuś Pierwszy,0,136200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.614,0.266,5,-19.567,0,0.96,0.816,0.0,0.222,0.68,60.37,4
+2DMT63ps2b8F2PmbVG1Jtu,D'la Vraie Amour,0,206000,0,['Gaby Montbreuse'],['1DgyeM38erNK7yB3Tpovwm'],1923,0.641,0.283,8,-16.471,1,0.316,0.993,6.98E-06,0.15,0.843,65.865,3
+2DlAiPP9DJ2z0bQfi8TMSk,Chapter 6.5 - Król Maciuś na wyspie bezludnej,0,130100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.739,0.227,5,-20.308,1,0.953,0.793,0.0,0.189,0.602,96.197,3
+2ETTpBNBoGotgsc8btbUhC,Chapter 10.19 - Król Maciuś Pierwszy,0,156600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.72,0.202,0,-18.31,1,0.933,0.784,0.0,0.169,0.714,124.803,4
+2EVvoTom0Oji191I1I4qCF,Chapter 2.18 - Król Maciuś Pierwszy,0,145300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.661,0.196,5,-20.207,0,0.939,0.76,0.0,0.189,0.843,83.479,3
+2FM5j4344sAAkUXTX5cTiX,Chapter 4.2 - Król Maciuś na wyspie bezludnej,0,126700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.62,0.244,1,-19.045,1,0.964,0.693,0.0,0.234,0.513,172.718,3
+2HfDoQcyX1ZEqbzsOMWPU8,Chapter 8.7 - Król Maciuś na wyspie bezludnej,0,131400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.216,1,-19.839,1,0.948,0.645,0.0,0.284,0.551,128.202,3
+2IwdIlqg3vpmDhJZPujABF,Chapter 8.7 - Król Maciuś Pierwszy,0,132900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.7,0.222,1,-19.62,1,0.952,0.907,0.0,0.152,0.672,85.272,5
+2JcQmJ2RIennzfIZSLzq0A,Chapter 5.7 - Król Maciuś na wyspie bezludnej,0,140900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.619,0.236,1,-20.973,1,0.961,0.706,0.0,0.188,0.588,174.16,5
+2KqBYBToiNNfhDIkSH91aq,Chapter 7.10 - Król Maciuś na wyspie bezludnej,0,135000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.679,0.221,1,-19.044,1,0.96,0.877,0.0,0.365,0.712,78.55,4
+2MskcGzzUdJdJy3Q7Y96qH,Chapter 6.16 - Król Maciuś na wyspie bezludnej,0,126700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.656,0.195,6,-20.352,0,0.959,0.874,0.0,0.116,0.729,54.775,4
+2N05z73nncXFj3XF2mYDDX,Chapter 8.10 - Król Maciuś na wyspie bezludnej,0,134700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.697,0.248,9,-18.624,1,0.95,0.57,0.0,0.658,0.669,96.747,4
+2OgHwBpullLkwd7O59O7AS,Chapter 3.13 - Król Maciuś Pierwszy,0,134100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.627,0.243,1,-19.876,0,0.96,0.74,0.0,0.319,0.737,170.734,3
+2OomQSfbQ4b8joF9N5rkIe,Chapter 7.13 - Król Maciuś na wyspie bezludnej,0,125900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.682,0.14,1,-20.222,1,0.921,0.683,0.0,0.166,0.591,99.078,4
+2P4P5kMqUriSRT7wyQPEGk,Chapter 3.2 - Król Maciuś Pierwszy,0,136000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.684,0.176,5,-19.667,0,0.945,0.723,0.0,0.228,0.722,100.748,5
+2PIlX13UoFyWhqepPJJVoJ,Chapter 8.21 & Chapter 9.1 - Król Maciuś Pierwszy,0,156000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.639,0.263,1,-17.634,1,0.96,0.875,0.0,0.206,0.621,84.858,4
+2PvwVyqAeYHKwAwnQNhHoX,Chapter 11.5 - Król Maciuś Pierwszy,0,127900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.158,1,-19.458,1,0.933,0.722,0.0,0.181,0.556,111.171,1
+2SVXq5WxQA2fuGVm6GWbIa,Chapter 10.12 - Król Maciuś Pierwszy,0,170500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.719,0.175,1,-20.058,1,0.93,0.807,0.0,0.172,0.687,116.295,3
+2TH4cBod9KMYpJ6Y2XxF2X,Chapter 2.15 - Król Maciuś Pierwszy,0,132900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.725,0.242,5,-19.014,0,0.944,0.774,0.0,0.316,0.649,96.058,4
+2TdBHm411Q9eU09zF24HHW,Padre Nuestro - Remasterizado,0,151467,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.6,0.243,4,-15.922,0,0.055,0.994,0.992,0.15,0.614,125.772,4
+2Us1pbKCuRgnpYK1Mm786O,Chapter 2.8 - Król Maciuś Pierwszy,0,152200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.712,0.22,1,-19.133,1,0.937,0.704,0.0,0.3,0.695,92.33,3
+2XPuwjQubVd5zfWmBZJKab,Chapter 9.20 & Chapter 10.1 - Król Maciuś Pierwszy,0,187500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.642,0.215,1,-19.9,1,0.941,0.787,0.0,0.126,0.788,159.854,3
+2aSHEubeGWVpJwQfJZl7JV,Chapter 2.5 - Król Maciuś na wyspie bezludnej,0,147200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.637,0.256,2,-17.853,1,0.95,0.725,0.0,0.188,0.637,164.233,4
+2bv2HjNm1zAjWWT1J9BfiE,Chapter 6.4 - Król Maciuś na wyspie bezludnej,0,128000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.628,0.21,1,-21.252,1,0.95,0.778,0.0,0.298,0.774,82.003,3
+2chC6F9xg7pl5slxzQizyo,Chapter 9.18 - Król Maciuś Pierwszy,0,179000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.719,0.262,1,-18.993,1,0.928,0.884,0.0,0.195,0.842,115.325,5
+2d3OQvoLSn9NA4sMGIYxNT,La Valse Du Faubourg,0,173427,0,['Félix Mayol'],['7DIlOK9L8d0IQ7Xk8aJxDW'],1923,0.623,0.292,4,-11.501,1,0.0558,0.978,0.0,0.341,0.934,61.28,3
+2dnaGKlRop5kaBJjEKW7j0,Juventud - Remasterizado,0,153147,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.415,0.0359,1,-29.191,0,0.0562,0.996,0.914,0.105,0.253,70.347,4
+2e6jVBimYdHUgveLPAREap,Chapter 1.4 - Król Maciuś na wyspie bezludnej,0,140700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.731,0.297,1,-17.651,1,0.94,0.862,0.0,0.19,0.786,62.404,3
+2gFUqcLFUDVXcWmeKAOnGd,Pobre Cotorro - Remasterizado,0,171107,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.502,0.298,5,-15.321,0,0.0805,0.995,0.919,0.285,0.51,135.238,4
+2gwppa6p7HymxbyxEooUNI,Two Deuces,4,172667,0,['Louis Armstrong & His Hot Five'],['0t4VVR2T9Sb0z3NdDdEU6S'],1923,0.713,0.294,5,-10.672,1,0.073,0.963,0.348,0.387,0.558,85.299,4
+2gy7I5dzqH5SMPefKbXqqg,Chapter 3.19 - Król Maciuś na wyspie bezludnej,0,168000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.71,0.228,1,-17.497,0,0.952,0.884,0.0,0.164,0.697,85.562,3
+2hLwDuj5IWkGnaADLfKhO3,Chapter 4.16 - Król Maciuś Pierwszy,0,138700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.726,0.192,1,-20.564,1,0.954,0.666,0.0,0.152,0.649,90.216,3
+2hg4UzqISMeCbjd8iSZhPT,Chapter 8.14 - Król Maciuś na wyspie bezludnej,0,125800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.701,0.21,1,-20.026,1,0.945,0.69,0.0,0.169,0.791,78.034,3
+2l56fKIIrgfHWndcbkBAta,The C00L Song,0,120309,1,['Dampfwalzi'],['41GUFwc0gpqt495qHXpxFB'],1923-02-26,0.503,0.823,9,-12.871,0,0.064,0.000243,0.64,0.473,0.401,97.019,4
+2l78PWopglhBVZGmpeTNRh,Chapter 2.18 - Król Maciuś na wyspie bezludnej,0,135900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.712,0.191,1,-20.443,1,0.944,0.849,0.0,0.241,0.591,127.017,3
+2lfBwShUHcbTlQltFG6LZe,Chapter 7.2 - Król Maciuś Pierwszy,0,129600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.746,0.214,1,-20.119,1,0.952,0.817,0.0,0.189,0.776,60.037,4
+2llQn4es5UBbZF2aTZuf5V,Chapter 3.2 - Król Maciuś na wyspie bezludnej,0,130000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.708,0.267,9,-17.41,1,0.95,0.944,0.0,0.252,0.611,130.199,5
+2mT2jYaXYm8t7pUewp55pj,Chapter 6.3 - Król Maciuś Pierwszy,0,137100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.666,0.248,10,-19.699,0,0.959,0.79,0.0,0.129,0.767,148.321,4
+2ohtXE5y4GhN0Zxvalubes,On The Sunny Side Of The Street - Part 2,4,185973,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.559,0.266,0,-9.804,1,0.0512,0.989,0.847,0.448,0.576,101.279,4
+2ot1SikkJGXtHo4OfOEuEe,Chapter 9.5 - Król Maciuś Pierwszy,0,137700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.621,0.217,5,-18.137,0,0.962,0.787,0.0,0.183,0.716,75.161,4
+2p6Iprr9YSwoPEr9Z24uVj,Beso de Sol - Remasterizado,0,146827,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.391,0.143,7,-23.364,1,0.0425,0.994,0.318,0.147,0.549,78.544,1
+2qkMBPNx82zd6ynbrL6HOb,Chapter 3.5 - Król Maciuś Pierwszy,0,126600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.707,0.203,1,-19.564,1,0.929,0.694,0.0,0.132,0.697,107.777,4
+2sVqBPHl4PWSeURzg9EKrp,Chapter 9.4 - Król Maciuś Pierwszy,0,129600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.704,0.229,1,-18.536,1,0.954,0.82,0.0,0.162,0.655,96.255,3
+2spqNW4Rg9EOcbRHqgqsud,Chapter 1.9 - Król Maciuś Pierwszy,0,132500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.705,0.242,1,-19.072,1,0.943,0.747,0.0,0.162,0.778,130.555,3
+2u9uUB3WJMcE5jty4rjDOq,Chapter 2.6 - Król Maciuś Pierwszy,0,137200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.703,0.202,1,-22.258,1,0.953,0.678,0.0,0.127,0.781,79.113,4
+2yfrHTCBu6ED8Abxey81Qk,Chapter 5.16 - Król Maciuś na wyspie bezludnej,0,131500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.715,0.285,1,-19.147,1,0.926,0.754,0.0,0.157,0.554,112.476,1
+2yqz75MA7AtLje5drtf8Gq,Mi Alazan Tostado - Remasterizado,0,185853,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.335,0.305,11,-19.576,0,0.0427,0.994,0.89,0.407,0.56,100.941,3
+2zFWLv60Tyz6D7SUQUNZtH,Elle N'est Pas Si Mal Que Ca,0,171933,0,['Mlle Davia'],['1J7bk889HO27E8RcepkcJe'],1923,0.519,0.292,0,-15.185,1,0.0852,0.995,0.0502,0.474,0.536,83.334,4
+30zaNxb2hI6M678pWrGK0h,Chapter 3.9 - Król Maciuś na wyspie bezludnej,0,137300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.714,0.232,11,-18.367,0,0.933,0.868,0.0,0.141,0.689,127.518,3
+31BnKhHR84Tv59WcvudHCq,Chapter 2.3 - Król Maciuś na wyspie bezludnej,0,125400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.66,0.279,5,-18.562,1,0.946,0.816,0.0,0.154,0.713,86.482,3
+31xehks2I3KrRVZRdZlREk,Chapter 5.18 - Król Maciuś Pierwszy,0,130400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.74,0.302,1,-18.431,1,0.939,0.851,0.0,0.136,0.808,103.309,3
+32lDouU0o6hjbxZL2P2ovX,Chapter 2.4 - Król Maciuś Pierwszy,0,154400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.719,0.242,1,-19.886,1,0.938,0.857,0.0,0.129,0.785,87.401,3
+34D575uvl3MYVJx7PceZCl,Chapter 7.3 - Król Maciuś Pierwszy,0,142100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.665,0.224,1,-19.474,1,0.941,0.855,0.0,0.125,0.827,151.228,4
+34mNRdIyIPh54mNDWN8lkK,Chapter 6.11 - Król Maciuś Pierwszy,0,127600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.701,0.22,1,-21.773,0,0.943,0.821,0.0,0.242,0.719,131.435,4
+34rdVyVGI2u6I0tNWc8v0Y,Nous Avons Fait Un Beau Voyage,0,127893,0,['André Baugé'],['1uqQ5ut95nC5C5jMDWlkJv'],1923,0.607,0.279,5,-13.411,1,0.174,0.975,0.0,0.219,0.849,73.673,4
+35gyMzxIMFL4e2YL5hkpH6,I Ain't No Body's Darling - Remasterizado,0,171187,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.47,0.43,5,-13.013,1,0.0516,0.995,0.981,0.177,0.942,166.475,4
+36TmAU1B91sO9Gwn6cMdv1,Chapter 6.2 - Król Maciuś na wyspie bezludnej,0,133100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.724,0.271,8,-19.128,1,0.95,0.639,0.0,0.169,0.645,97.061,4
+37cZYq36byeOYpb0KAl6lF,Chapter 10.5 - Król Maciuś Pierwszy,0,126900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.185,1,-20.925,1,0.924,0.735,0.0,0.18,0.709,114.658,4
+38p6VEUf5fz0WA3TM2GNIz,Chapter 3.11 - Król Maciuś Pierwszy,0,146300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.632,0.191,1,-21.006,1,0.955,0.735,0.0,0.094,0.758,81.974,4
+39zX6LsaEcaluNfwwraKAs,Chapter 5.5 - Król Maciuś na wyspie bezludnej,0,126700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.616,0.226,5,-20.005,0,0.96,0.739,0.0,0.197,0.683,176.054,1
+3AL6oljZrHIu9wxGXvkKCb,Chapter 6.15 - Król Maciuś Pierwszy,0,127700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.64,0.26,6,-18.793,1,0.953,0.876,0.0,0.124,0.826,82.113,3
+3AVbE1jEbBroxADdYSwpUX,Chapter 6.3 - Król Maciuś na wyspie bezludnej,0,130700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.222,1,-19.972,1,0.936,0.796,0.0,0.274,0.734,126.523,3
+3BHmu5onoduKIseK4p4VTQ,Chapter 1.16 - Król Maciuś Pierwszy,0,126700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.707,0.268,1,-19.6,1,0.946,0.742,0.0,0.171,0.771,71.445,3
+3DWEcGDSXu42LYHbSVYguU,There's No Tomorrow,0,130064,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.725,0.377,11,-12.955,1,0.0324,0.758,1.19E-06,0.118,0.806,109.982,4
+3FyDaPO3ak0R5zQrO14sL7,Chapter 2.4 - Król Maciuś na wyspie bezludnej,0,137700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.713,0.204,1,-18.18,0,0.936,0.557,0.0,0.15,0.572,108.1,3
+3GPFBKLtvTe3V63nzh4oUF,Chapter 6.17 - Król Maciuś na wyspie bezludnej,0,134500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.658,0.178,0,-20.426,1,0.953,0.811,0.0,0.166,0.614,92.701,4
+3Glvyay182hRpDhPscmZWx,Chapter 11.11 - Król Maciuś Pierwszy,0,130400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.691,0.208,1,-18.842,1,0.95,0.896,0.0,0.174,0.739,85.932,4
+3HkSl0PJj4xBPkeZsK1yXI,Chapter 8.18 - Król Maciuś na wyspie bezludnej,0,208300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.628,0.184,1,-20.496,1,0.955,0.383,7.14E-06,0.0658,0.519,168.859,5
+3IOmj6NIiknYGtIuFGBSBG,Muchachita Loca - Remasterizado,0,153187,0,['Ignacio Corsini'],['5LiOoJbxVSAMkBS2fUm3X2'],1923-03-29,0.435,0.212,6,-21.562,0,0.0479,0.995,0.0165,0.252,0.698,122.928,4
+3J8H6B2f2uNkSiHYwwPB6Q,Chapter 4.16 - Król Maciuś na wyspie bezludnej,0,137400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.652,0.159,5,-21.963,0,0.954,0.744,0.0,0.144,0.689,91.394,3
+3JQIKXzPa0RIodcMBr6DNF,Chapter 4.7 - Król Maciuś Pierwszy,0,125200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.698,0.226,1,-19.342,1,0.956,0.757,0.0,0.268,0.802,81.385,4
+3JSyqV0xIb9k6Xfor577ML,Chapter 2.14 - Król Maciuś na wyspie bezludnej,0,138000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.645,0.172,9,-19.421,1,0.951,0.774,0.0,0.13,0.702,89.164,5
+3KtlyM6mYwRXTova2jfFPF,Chapter 8.11 - Król Maciuś na wyspie bezludnej,0,135500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.739,0.229,1,-18.198,1,0.94,0.811,0.0,0.166,0.581,105.265,3
+3LEXI58rgVBIn8Mr0FQXrp,Chapter 7.18 - Król Maciuś Pierwszy,0,126300,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.721,0.203,5,-20.118,1,0.944,0.788,0.0,0.167,0.72,122.97,1
+3LTK7FvKsUKOLp9TZRVQIZ,Chapter 7.2 - Król Maciuś na wyspie bezludnej,0,129400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.703,0.177,1,-20.019,1,0.945,0.683,0.0,0.164,0.687,83.866,4
+3M1AV4KKRquagoq35YNxse,Chapter 1.7 - Król Maciuś na wyspie bezludnej,0,143100,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.735,0.286,5,-18.813,0,0.929,0.755,0.0,0.143,0.712,97.985,5
+3MDt3vN8pgvIAfDIxtyN3a,Chapter 8.11 - Król Maciuś Pierwszy,0,134200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.71,0.162,1,-22.034,1,0.954,0.836,0.0,0.199,0.752,80.203,3
+3O2pzKGBzwCsTywRWovx2U,Chapter 4.3 - Król Maciuś Pierwszy,0,140000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.691,0.239,9,-18.047,1,0.949,0.742,0.0,0.353,0.617,100.575,3
+3Q0Z752d6h26C5Ivd0q2VZ,Chapter 6.14 - Król Maciuś na wyspie bezludnej,0,141400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.623,0.223,1,-19.994,1,0.961,0.853,0.0,0.15,0.651,76.919,4
+3Q5D2uUAUIiACyCgVwaDFU,Chapter 1.2 - Król Maciuś Pierwszy,0,133800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.673,0.301,1,-17.938,1,0.953,0.829,0.0,0.159,0.776,146.461,4
+3V2R1hDixOyRYEIWdYm0OC,Nubes de Humo - Remasterizado,0,176200,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.618,0.306,8,-13.928,0,0.0535,0.995,0.967,0.12,0.727,122.623,4
+3VDVHZiEBJvKM9WGEJVR9a,Chapter 4.2 - Król Maciuś Pierwszy,0,128800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.708,0.226,0,-19.192,1,0.957,0.854,0.0,0.137,0.634,86.987,4
+3XHUxnjmA15lbMDcGYiWwZ,Eleonore - Remasterizado,0,157867,0,['Francisco Canaro'],['2maQMqxNnlRrBrS1oAsrX9'],1923-07-09,0.336,0.415,0,-15.088,1,0.17,0.995,0.984,0.264,0.76,167.96,4
+3YK80CqyG4hLA3YbDxavBO,Chapter 8.20 - Król Maciuś Pierwszy,0,126000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.663,0.181,1,-19.365,1,0.96,0.828,0.0,0.104,0.741,93.317,1
+3Ymcu570Ylr9LUnCX6tnhC,Chapter 1.8 - Król Maciuś na wyspie bezludnej,0,127600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.706,0.272,1,-19.558,1,0.941,0.786,0.0,0.15,0.784,107.631,1
+3ZKOtk1YGKwrQkDhi73zJr,Dans Les Jardins De L'alhambra,0,188840,0,['Robert Jysor'],['491s7aNxBMoI7BOkwFwgbl'],1923,0.666,0.366,1,-12.874,0,0.0682,0.992,0.0,0.336,0.804,108.158,4
+3ZcK37cOs1Q16F6CQeVFgA,Chapter 1.7 - Król Maciuś Pierwszy,0,144200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.698,0.256,1,-20.43,1,0.958,0.766,0.0,0.276,0.798,79.727,4
+3clAJr93BNtxjwKWgPzibE,Chapter 4.11 - Król Maciuś na wyspie bezludnej,0,129200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.618,0.203,1,-20.624,1,0.955,0.82,0.0,0.306,0.523,170.94,3
+3dtLRp92v8d6ZBDzwidmgk,Chapter 1.14 - Król Maciuś na wyspie bezludnej,0,131400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.689,0.235,1,-20.641,1,0.953,0.669,0.0,0.173,0.759,83.118,3
+3eSMs0YEt1qRUtsIjjoR5u,Chapter 4.20 - Król Maciuś Pierwszy,0,126500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.717,0.18,1,-20.774,1,0.947,0.737,0.0,0.158,0.758,113.847,4
+3erNdiLPou8N2daJMvaaWv,Dinah,0,143073,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.718,0.506,7,-10.519,1,0.0362,0.758,9.75E-06,0.0615,0.885,130.062,4
+3f4HAZPUTSrQbK6jCwQhnx,You Broke the Only Heart That Ever Loved You,0,147069,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.627,0.415,0,-11.671,1,0.0462,0.714,0.0,0.164,0.729,133.901,4
+3gApxJyhWWfo68HGgyVcAS,Chapter 2.3 - Król Maciuś Pierwszy,0,127700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.746,0.228,1,-20.522,1,0.947,0.8,0.0,0.129,0.642,107.663,3
+3i4RahjAMmwcNCLekuLYEY,Chapter 2.14 - Król Maciuś Pierwszy,0,131200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.695,0.221,1,-19.868,1,0.947,0.701,0.0,0.189,0.753,103.884,3
+3iEvTQafOiOJyPov4Qpvh5,Chapter 8.5 - Król Maciuś Pierwszy,0,146000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.66,0.204,5,-20.514,0,0.942,0.87,0.0,0.252,0.77,93.229,3
+3iRLeF7fyaOBgeySp2ZzWD,Chapter 4.12 - Król Maciuś na wyspie bezludnej,0,125700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.716,0.181,0,-20.206,1,0.952,0.814,0.0,0.25,0.598,83.871,4
+3iTYh4qdFdJyYlmGs0Ch1Z,Chapter 2.2 - Król Maciuś Pierwszy,0,137400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.662,0.201,9,-21.004,1,0.956,0.752,0.0,0.16,0.763,62.188,4
+3iobM1JNjGIabwPNrJ5zfW,Chapter 9.3 - Król Maciuś Pierwszy,0,134000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.709,0.174,1,-20.184,1,0.948,0.757,0.0,0.354,0.658,87.161,4
+3jK2m3L8elPvXWnCSPgsiB,Chapter 5.10 - Król Maciuś Pierwszy,0,140700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.65,0.186,5,-19.521,0,0.957,0.735,0.0,0.173,0.688,91.667,3
+3jic1HtQwJwaKnBL4ykuwZ,My Sweet,4,195960,0,['Louis Armstrong'],['19eLuQmk9aCobbVDHc6eek'],1923,0.741,0.284,3,-10.406,1,0.0505,0.927,0.0788,0.0633,0.816,105.84,4
+3k4aOGCuv5NjjHTJ3tBBqw,Chapter 1.20 & Chapter 2.1 - Król Maciuś Pierwszy,0,126000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.69,0.145,1,-23.286,1,0.942,0.543,0.0,0.334,0.718,136.316,1
+3k8zGG9LmgT9I68R0u5cDE,Chapter 9.19 - Król Maciuś Pierwszy,0,136900,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.679,0.237,1,-19.588,1,0.958,0.736,0.0,0.159,0.748,73.514,3
+3lWtpc2gKflv5xG7qGVA9l,I Can't Give You Anything But Love,0,184059,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.733,0.516,2,-11.97,1,0.0475,0.859,0.0,0.0913,0.779,139.964,4
+3mILRZYDhBz4ZqmVlt7su7,Chapter 5.13 - Król Maciuś na wyspie bezludnej,0,134700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.682,0.246,1,-20.486,1,0.949,0.775,0.0,0.245,0.778,85.733,3
+3npTSodOUXSWhonT7TJTIN,Chapter 7.7 - Król Maciuś na wyspie bezludnej,0,125500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.683,0.25,9,-17.738,1,0.955,0.862,0.0,0.263,0.695,99.263,4
+3pNvEugUdsFGZSolcLGb3V,Chapter 4.13 - Król Maciuś Pierwszy,0,136000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.726,0.247,1,-17.982,1,0.946,0.793,0.0,0.223,0.802,107.783,5
+3pjehtgPoqwg771OxtIth4,Chapter 8.6 - Król Maciuś na wyspie bezludnej,0,125600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.642,0.277,1,-18.761,1,0.951,0.707,0.0,0.22,0.581,88.563,3
+3pjoWqkg0KD2BYLhWNjv7T,Chapter 5.3 - Król Maciuś Pierwszy,0,127200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.683,0.159,6,-20.683,0,0.956,0.785,0.0,0.287,0.851,78.967,1
+3q29zpii6tFh9IdrXL0HLX,Chapter 4.8 - Król Maciuś na wyspie bezludnej,0,141200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.691,0.204,1,-20.652,1,0.955,0.652,0.0,0.355,0.609,139.466,3
+3qByw3YrQnpjMttThvwclS,The Bridwell Blues,4,211800,0,['Nolan Welsh'],['7DO7gbz8iRaDsj1ft0dXjl'],1923,0.657,0.136,11,-14.723,1,0.339,0.995,7.64E-05,0.118,0.637,72.492,4
+3qpqaoO3IPawhS4PzUeJL7,Chapter 3.7 - Król Maciuś Pierwszy,0,133400,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.706,0.217,1,-20.719,1,0.948,0.743,0.0,0.165,0.754,74.054,3
+3siZBSfqfWGdfO22wScU0U,Chapter 4.12 - Król Maciuś Pierwszy,0,130800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.711,0.199,1,-19.244,1,0.932,0.83,0.0,0.237,0.819,111.123,4
+3tyhTk1UX8h6NSRuSQd2Gz,Chapter 4.8 - Król Maciuś Pierwszy,0,138800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.707,0.239,9,-19.002,1,0.952,0.79,0.0,0.25,0.813,85.459,4
+3vNg4FT0yzOVYVrCydxIPZ,Chapter 7.14 - Król Maciuś na wyspie bezludnej,0,127000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.661,0.173,1,-20.342,1,0.95,0.83,0.0,0.261,0.603,86.355,4
+3vWbf3W1QkZjnfJhHXQxCp,Chapter 4.4 - Król Maciuś Pierwszy,0,129200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.628,0.263,1,-18.427,1,0.958,0.736,0.0,0.61,0.62,170.068,5
+3vfTqBW9DLaendwbV4sMeM,Chapter 6.17 - Król Maciuś Pierwszy,0,162700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.691,0.197,1,-19.443,0,0.947,0.845,0.0,0.204,0.78,85.898,3
+3y44rjnrh8GMfjqbONAaTO,Chapter 11.4 - Król Maciuś Pierwszy,0,138200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.72,0.238,2,-19.363,1,0.945,0.848,0.0,0.238,0.714,99.51,3
+3y9FJZk0c8LXgvaFU5KFXK,Chapter 6.12 - Król Maciuś na wyspie bezludnej,0,136000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.693,0.215,9,-19.092,1,0.941,0.714,0.0,0.218,0.571,137.865,3
+3zSJdNa5YQwNSAnkZm9gAw,Chapter 10.15 - Król Maciuś Pierwszy,0,132000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.632,0.257,1,-17.48,1,0.96,0.781,0.0,0.261,0.735,167.803,1
+3zsFs71s4rmanTNdQUatzS,You Never Miss the Water till the Well Runs Dry,0,150570,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.743,0.417,5,-10.234,1,0.0313,0.906,0.0,0.0982,0.561,119.96,3
+41EbVURlQ4vMzr4T40Cokw,Chapter 5.6 - Król Maciuś na wyspie bezludnej,0,156500,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.726,0.284,10,-18.478,0,0.95,0.772,0.0,0.198,0.716,77.246,4
+41RLkvyELWv5ydLwQ6FsLu,You Always Hurt the One You Love,0,209058,0,['Harry Curtis'],['3E3AwPbm9ShPKXVDsMp5Zy'],1923,0.475,0.294,10,-12.168,1,0.0381,0.88,0.0,0.109,0.236,126.301,3
+41gIFUJuvcpDWaljitJ2ZW,Chapter 2.20 - Król Maciuś Pierwszy,0,139200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.703,0.244,1,-20.595,1,0.943,0.731,0.0,0.388,0.759,134.107,3
+43YL7lZHfzOVq6uqS4HJ61,Chapter 4.5 - Król Maciuś Pierwszy,0,157000,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.71,0.255,1,-18.131,1,0.95,0.797,0.0,0.319,0.656,109.762,4
+43eCxF1gclHqMZXiqdPfX1,Chapter 2.11 - Król Maciuś Pierwszy,0,178700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.63,0.258,1,-17.659,1,0.961,0.826,0.0,0.143,0.751,168.727,1
+45MNeHFtmUexSRJPQoOzah,Chapter 3.9 - Król Maciuś Pierwszy,0,127700,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.643,0.217,8,-19.185,1,0.952,0.821,0.0,0.25,0.677,80.751,4
+49R7xgYyebbRaivhnEDqNa,Chapter 9.6 - Król Maciuś Pierwszy,0,125800,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.696,0.215,1,-19.822,1,0.949,0.837,0.0,0.31,0.649,137.937,3
+4B1wlmzIBmItd9sYUng5QR,Chapter 6.13 - Król Maciuś Pierwszy,0,187600,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.615,0.257,1,-18.816,1,0.941,0.828,0.0,0.163,0.831,75.424,3
+4B7YDknKCv5ZwrWMpBDz9O,Chapter 8.6 - Król Maciuś Pierwszy,0,132200,0,['Janusz Korczak'],['4hLtcEEpjCmBtTnDdzRV4J'],1923-12-27,0.737,0.225,1,-19.174,1,0.941,0.85,0.0,0.168,0.838,92.862,3
